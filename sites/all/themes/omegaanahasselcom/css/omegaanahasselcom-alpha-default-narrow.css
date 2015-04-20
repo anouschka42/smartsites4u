@@ -1,0 +1,57 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal 
+ *  and widescreen CSS files as appropriate. */
+ 
+/*
+h1#page-title.title{
+ background: yellow;
+ }
+*/
+
+ span.none{
+display:inline;
+} 
+
+span.ae{
+display:inline;
+font-size:100%;
+}
+ 
+div.logotext{
+ position: relative;
+ font-size: 200%;
+top: 0.853em;
+left: 0.3em;
+color: #46701F;
+z-index: -20;
+ }
+ 
+ h6.site-slogan{
+font-style: italic;
+}
+
+/* SUPERFISH */
+
+.sf-menu.sf-style-space {
+float: left;
+margin-bottom: 0em;
+padding: 0;
+}
+
+a.sf-depth-1.active,
+.sf-menu.sf-style-space li:hover,
+.sf-menu.sf-style-space li.sfHover,
+.sf-menu.sf-style-space li.active a,
+.sf-menu.sf-style-space a:focus,
+.sf-menu.sf-style-space a:hover,
+.sf-menu.sf-style-space a:active,
+.sf-menu.sf-style-space.sf-navbar li li {
+  background: #ec5e2e;
+  color: #ffffff;
+}
+
+a.sf-depth-1{
+  text-transform: uppercase;
+  text-decoration: none;
+}

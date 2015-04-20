@@ -1,0 +1,277 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+/*
+h1#page-title.title{
+ background: red;
+ }
+*/
+body{
+background: #FFFFFF;
+}
+ 
+ img{
+max-width:100%;
+height:auto;
+ }
+ 
+span.field-content.team_image{
+float: right;
+} 
+
+div.field.field-name-field-team-photo.field-type-image{
+float: right;
+}
+ 
+ul.quicktabs-tabs.quicktabs-style-basic li.active a{
+color: #FD653C
+}
+ 
+div.team_float_right{
+float: right;
+width:50%;
+}
+
+div#block-block-2.block.block-block.contextual-links-region.block-2.block-block-2.odd.block-without-title{
+float: right;}
+div.easy-breadcrumb{
+border-top: 1px dashed #c1c1c1;
+border-bottom:1px dashed #c1c1c1;
+}
+ 
+div.logotext{
+ position: relative;
+ font-size: 180%;
+top: 0.853em;
+left: 0.3em;
+ }
+ 
+ .sf-menu.sf-style-white {
+  float: left;
+  margin-bottom: 0.1em;
+  padding: 0;
+}
+ 
+span.none{
+display:none;
+} 
+
+span.ae{
+display:block;
+font-size:70%;
+}
+
+div.view-new-pricing .grid-3, {
+display: inline;
+float: left;
+position: relative;
+margin-left: 2px;
+margin-right: 2px;
+}
+
+h2.block-title {
+font-size: 18px;
+margin: 0;
+display: none;
+}
+
+#region-sidebar-first div.block{
+border-top: 1px dashed #c2c2c2;
+}
+
+div.field-name-body img{
+border: 1px solid gray;
+padding: 3px;
+}
+
+div.float-right{
+float: right;
+}
+
+span.testimonial{
+font-style: italic;
+}
+
+/* margin: 0 0 0 0.5em; */ /* LTR */
+ul.menu li{
+ margin: 0 0 0 0em;
+}
+
+div.region{
+min-height:0px}
+}
+h6.site-slogan{
+font-style: italic;
+}
+
+ 
+ h6.site-slogan{
+ color: #A4A4A0;
+position: relative;
+top: -0.5em;
+margin-bottom: 0.8em;
+left: 2em;
+ }
+ 
+
+span.on-the-web{
+position: relative;
+top: 1.8em;
+}
+h2.phone{
+position: relative;
+top: 0.5em;
+text-align: right;
+}
+
+#zone-menu-wrapper{
+background-color: black;
+}
+
+div.views-row .node-teaser{
+border-bottom: 1px solid #c1c1c1;
+padding-bottom: 1.75em;
+}
+
+{
+max-width:100%;
+max-height:auto;
+}
+
+div.views-row{
+border-bottom: 1px dashed #C1C1C1;
+}
+div.group-header{
+margin-top:1.5 em;
+}
+
+/* FONTS TEXT */
+
+body {
+  font: 13px/1.5 Verdana, Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue",Tahoma,Helvetica,Arial,sans-serif
+}
+
+a:link, a:visited {
+  color: #ec5e2e;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #202124;
+  text-decoration: none;
+}
+
+a:active {
+  color: #202124;
+  text-decoration: none;
+  color: #000;
+}
+
+a.active{
+color: black;
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+  border: none;
+  height: 1px;
+  background: #46701f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.05em;
+  font-family: "Helvetica Neue", 'Times New Roman', serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+
+h2 {
+  font-size: 28px;
+}
+
+/* Make site titles the same size if it's an H1 (home) or H2 (internal) */
+h1.site-name,
+h2.site-name {
+  font-family: sans-serif;
+  font-size: 36px;
+}
+
+/* Make it a bit smaller for block headers */
+h1.logotext{
+font-size:200%;
+}
+
+/*
+h2.block-title {
+  font-family: "Lucinda Sans", Ariel;
+  font-size: 18px;
+  margin: 0;	
+}
+*/
+
+h2.node-title {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 19px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  font-size: 15px;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+}
+
+ul ul,
+ol ol {
+  padding-top: 0.5em;
+}
+
+.node ol,
+.node ul {
+  padding-left: 1.2em;
+}
+
+.node ul.inline,
+.node ol.inline {
+  padding-left: 0;
+}
+
+p, dl, hr, h1, h2, h3, h4, h5, h6, ol,
+ul, pre, table, address, fieldset {
+  margin-bottom: 20px;
+}
+
+dt, .admin h3 {
+  font-size: 18px;
+  margin: 0;
+}
+
+dd {
+  padding-left: 10px;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+
+

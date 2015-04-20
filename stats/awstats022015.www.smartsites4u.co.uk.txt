@@ -1,0 +1,1136 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.www.smartsites4u.co.uk.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2676                
+POS_VISITOR 18227               
+POS_DAY 43857               
+POS_DOMAIN 3603                
+POS_LOGIN 4286                
+POS_ROBOT 4441                
+POS_WORMS 5513                
+POS_EMAILSENDER 5644                
+POS_EMAILRECEIVER 5787                
+POS_SESSION 44656               
+POS_SIDER 44847               
+POS_FILETYPES 5922                
+POS_DOWNLOADS 6132                
+POS_OS 6205                
+POS_BROWSER 6458                
+POS_SCREENSIZE 8148                
+POS_UNKNOWNREFERER 8222                
+POS_UNKNOWNREFERERBROWSER 9069                
+POS_ORIGIN 9404                
+POS_SEREFERRALS 9549                
+POS_PAGEREFS 9727                
+POS_SEARCHWORDS 10130               
+POS_KEYWORDS 10413               
+POS_MISC 2340                
+POS_ERRORS 10613               
+POS_CLUSTER 4142                
+POS_SIDER_404 10758               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301000053 8 913 11387497033241
+FirstTime 20150201012254
+LastTime 20150228233622
+LastUpdate 20150302000102 8 0 0 0 7
+TotalVisits 585                 
+TotalUnique 439                 
+MonthHostsKnown 304                 
+MonthHostsUnknown 180                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 151 2554250 587 621 1335643
+1 93 236 4179300 646 769 3074221
+2 24 220 3603645 632 751 3286681
+3 26 202 3710716 596 665 1998886
+4 39 213 4174971 553 591 525099
+5 41 251 4811358 625 684 2272717
+6 16 152 2964218 562 644 1269382
+7 29 207 3833387 531 609 1249455
+8 28 267 4947793 561 641 1494707
+9 29 167 3503249 574 791 4693307
+10 66 135 2357610 607 921 6228161
+11 56 264 4409387 590 933 6574874
+12 79 253 5084230 649 1190 11341133
+13 33 153 2714308 563 952 6998269
+14 30 178 2913669 630 690 2673764
+15 25 58 976783 549 612 341870
+16 28 69 1254787 702 1585 8250821
+17 30 64 876899 613 694 2199708
+18 56 231 4976775 662 745 2332292
+19 85 235 4786658 576 634 1095746
+20 22 86 1556062 624 673 2447145
+21 64 220 3385319 589 679 1178627
+22 7 113 2086779 570 619 2101502
+23 55 211 3607521 697 789 5140386
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+com 371 1070 19812049
+ip 361 1319 24940757
+net 116 646 12109441
+de 30 96 1833223
+nl 17 17 569436
+eu 14 56 630053
+br 13 420 7549193
+cn 8 8 130334
+in 8 120 1126954
+uk 6 7 123761
+pt 3 102 1861895
+ua 1 1 8824
+tr 2 2 77402
+es 1 34 620631
+gr 1 34 620626
+ru 6 31 218995
+mx 1 34 620634
+kz 1 1 22220
+ec 2 64 1229148
+at 1 1 8827
+id 1 1 8823
+co 1 34 620634
+vn 4 26 570500
+info 5 5 73987
+chinamobile 1 1 8820
+it 4 103 1900597
+pk 1 33 617156
+za 1 1 38593
+ar 2 67 1238759
+tk 2 2 77402
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+robot 8199 593273 20150228235803 6
+no_user_agent 3938 500447 20150228235542 3
+bot[\s_+:,\.\;\/\\-] 2199 41262679 20150228123120 52
+crawl 892 6530112 20150228140333 4
+googlebot 787 2111750 20150228134955 54
+baiduspider 718 12951806 20150228231830 0
+vagabondo 264 9755106 20150228121351 12
+mj12bot 123 1321001 20150228233844 23
+slurp 91 457880 20150228184945 18
+yandex 79 807949 20150228052125 21
+exabot 14 56646 20150227020737 7
+spider 6 52945 20150214162658 0
+libwww 4 154836 20150228141513 0
+seznambot 2 9463 20150226001528 1
+java\/[0-9] 1 8821 20150224082950 0
+mail\.ru 2 10372 20150212191851 1
+unknown 57 42850 20150228162209 57
+facebook 4 35289 20150228233554 0
+python 5 89672 20150227140055 2
+surveybot 4 20748 20150216105307 2
+archive\.org_bot 37 46492 20150210033152 14
+favicon 8 90075 20150225134658 0
+psbot 2 8042 20150225144218 1
+tarantula 1 38593 20150203051111 0
+netcraft 2 77402 20150211154641 0
+nutch 2 9461 20150227043604 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 726 1710361 0 0
+png 1100 38714779 0 0
+html 544 11114663 0 0
+js 792 11617790 0 0
+jpg 705 9118405 0 0
+Unknown 441 6830412 0 0
+gif 28 163264 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 261 0 268050
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 18
+linuxredhat 1
+blackberry 1
+linuxandroid 329
+winlong 147
+winxp 379
+win2000 1
+winvista 156
+win95 1
+winunknown 1
+win2003 9
+linuxdebian 2
+bsdopenbsd 1
+winnt 4
+linuxubuntu 43
+linux 150
+win7 2527
+macosx 339
+Unknown 245
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 99
+msie6.0 80
+firefox28.0 3
+safari7.0.3 4
+chrome40.0.2214.115 90
+chrome34.0.1847.137 8
+firefox26.0 10
+chrome40.0.2214.111 146
+msie4.01 1
+chrome39.0.2171.95 38
+chrome31.0.1650.63 1
+firefox34.0 26
+safari4.0.3 34
+safari5.0.2 1
+chrome5.0.307.7 6
+msie8.0 299
+chrome39.0.2171.65 1
+msie7.0 76
+chrome27.0.1453.93 1
+chrome37.0.2062.120 2
+firefox3.5.11 1
+chrome39.0.2171.71 1
+firefox3.0 1
+chrome34.0.1847.131 5
+firefox21.0 15
+lg\- 68
+safari6.0 1
+firefox29.0 5
+firefox10.0.1 4
+firefox7.0.1 1
+firefox12.0 3
+chrome32.0.1700.107 134
+chrome35.0.1916.114 6
+chrome36.0.1985.143 1587
+firefox33.0 2
+firefox25.0 1
+mozilla 256
+chrome26.0.1410.64 1
+firefox14.0.1 12
+chrome40.0.2214.89 1
+safari8.0.2 2
+safari5.1.9 1
+chrome41.0.2228.0 1
+firefox19.0 1
+chrome25.0.1364.169 1
+firefox35.0 166
+firefox3.1 1
+safari 53
+chrome21.0.1180.89 3
+safari7.0 35
+chrome37.0.2062.124 1
+chrome31.1.0.0 1
+bonecho 1
+chrome29.0.1547.57 1
+opera9.70 1
+android 207
+chrome29.0.1547.0 2
+epiphany 1
+kazehakase 1
+chrome12.0.742.112 42
+firefox24.0 1
+minefield 1
+opera9.80 1
+firefox31.0 2
+firefox6.0.2 141
+firefox3.6.19 87
+firefox13.0.1 1
+chrome26.0.1410.65 1
+chrome24.0.1312.57 1
+chrome40.0.2214.85 3
+chrome10.0.648.204 9
+firefox3.6.9 1
+chrome34.0.1847.118 44
+safari8.0 38
+msie5.0 3
+msie9.0 25
+chrome30.0.1599.101 26
+Unknown 139
+firefox27.0 1
+firefox11.0 2
+firefox3.0.8 1
+safari7.1 170
+firefox32.0 3
+chrome39.0.2171.93 7
+blackberry 1
+firefox3.5.6 1
+chrome18.0.1025.166 1
+chrome30.0.1599.105 1
+chrome36.0.1985.97 7
+netscape4.79 1
+firefox1.0 1
+chrome35.0.1916.153 131
+firefox1.5.0.10 1
+firefox22.0 3
+chrome25.0.1364.172 1
+msie10.0 16
+safari6.0.2 1
+chrome39.0.2171.99 6
+chrome5.0.359.0 1
+firebird 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Ruby 20150214211746
+Mozilla/5.0_(compatible;_Lipperhey_SEO_Service;_http://www.lipperhey.com/) 20150216230238
+Mozilla/5.0_(compatible;_coccoc/1.0;__http://help.coccoc.com/) 20150225215000
+Mozilla/5.0_(compatible;_image.coccoc/1.0;__http://help.coccoc.com/) 20150219142743
+Xenu_Link_Sleuth/1.3.8 20150209112823
+HubSpot_Biden_Image_Utils 20150218164248
+Mozilla/5.0_(compatible;_Fetcher/0.1) 20150213164640
+http://www.nominet.org.uk/privacypolicy 20150224015426
+Mozilla/5.0_(compatible;_IODC-Internet_Engineering_Odysseus_004;__http://iodc.co.uk) 20150202014643
+Mozilla/5.0_(compatible;_Owler/0.4;__;_) 20150216135807
+M 20150208112049
+GigablastOpenSource/1.0 20150210125456
+ltx71_-_(http://ltx71.com/) 20150221215927
+Mozilla/2.0_(compatible;_crw) 20150212070647
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+http://www.nominet.org.uk/privacypolicy 20150224015426
+Ruby 20150214211746
+M 20150208112049
+GigablastOpenSource/1.0 20150210125456
+ltx71_-_(http://ltx71.com/) 20150221215927
+Xenu_Link_Sleuth/1.3.8 20150209112823
+HubSpot_Biden_Image_Utils 20150218164248
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 673 749
+From1 55 55
+From2 32 39
+From3 67 67
+From4 158 3426
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 26 33
+baidu 5 5
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://semalt.semalt.com/crawler.php 39 39
+http://buttons-for-website.com 17 17
+http://smartsites4u.com 5 5
+http://www.domain2008.com 2 2
+http://www.anahassel.com 2 2
+http://www.yell.com/s/business-dartington.html 1 1
+http://www.anahassel.com/pricing 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+smartsites4u.co.uk%7cwebsitedesign+drupalsites+mobilefirst%7cprofessionalwebdesignservicesindevonandlondon 5
+in+devon+a+valuable 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+mobilefirst%7cprofessionalwebdesignservicesindevonandlondon 5
+drupalsites 5
+smartsites4u.co.uk%7cwebsitedesign 5
+a 1
+valuable 1
+devon 1
+in 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 200 1082785
+302 15 300
+206 21 117987
+404 159 1852734
+301 638 6880
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 121
+/javascripts/fckeditor/editor/fckeditor.html 2 -
+/main/inc/lib/fckeditor/editor/fckeditor.html 1 -
+/js/lib/fckeditor/editor/fckeditor.html 1 -
+/cms/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/cms/uploadify/uploadify.swf
+/sitemap.xml 3 -
+/news/fckeditor/editor/fckeditor.html 1 -
+/js/krte/editor/fckeditor.html 1 -
+/administrator/php/editor/fckeditor.html 1 -
+/static/scripts/ajax/FCKeditor/editor/fckeditor.html 1 -
+/%3ca%20href%3d%22/portfolio/kirsty-griffin-photographer%22%3eKirsty%20Griffin%20%7c%20Photographer%3c/a%3e 1 -
+/wp-admin/admin-post.php 1 -
+/lib/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/lib/uploadify/uploadify.swf
+/sites/www.smartsites4u.co.uk/files/advagg_css/css__xDUPZDt4S0gWgMdDJKhkiJzAzvEDdxqn-RFeDauCA48__KlQQeYH0UP6qQlPjsxZRtblBrOsI1k8tBsFtkf4jeok__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.css 1 -
+/html/proudphufah/admin/fckeditor/editor/fckeditor.html 1 -
+/site/modules/fckeditor/fckeditor.html 1 -
+/sites/default/files/js/js_5idecjjao-x5ydkt65caiiodkwmzlzv-wjskhlwhoyk.js 1 -
+/scripts/fckeditor/editor/fckeditor.html 1 -
+/db/include/class/fckeditor/editor/fckeditor.html 1 -
+/classifieds/submit/FCKeditor/editor/fckeditor.html 1 -
+/packages/intermediate 15 -
+/blog 1 http://smartsites4u.com
+/wp-content/plugins/chenpress/FCKeditor/editor/fckeditor.html 1 -
+//editor/editor/dialog/fck_about.html 1 -
+/FAQ/think-your-own-user-experien 1 -
+//page_404.asp 1 -
+/app/webroot/js/fckeditor/editor/fckeditor.html 1 -
+/resources/fckeditor/editor/fckeditor.html 1 -
+/_engine/fckeditor/editor/fckeditor.html 1 -
+/blog/wp-admin/admin-ajax.php 7 -
+/assets/includes/fckeditor/editor/fckeditor.html 1 -
+/util/FCKeditor/editor/fckeditor.html 1 -
+/includes/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/includes/uploadify/uploadify.swf
+//manage/fckeditor/editor/dialog/fck_about.html 1 -
+/sites/default/files/js/js_cqpzsm59mkgnoo7ufpjtfucyrrfu5iuedvtu_cs32ty.js 1 -
+/fckeditor/jscripts/editor/fckeditor.html 1 -
+/templets/default/style/dedecms.css 3 http://smartsites4u.co.uk
+/wp-content/plugins/wp-insert/fckeditor/editor/fckeditor.html 1 -
+/cms/HTMLEditor/editor/fckeditor.html 1 -
+/%3ca%20href%3d%22/portfolio/abconservation%22%3eABConservation%20%20%3c/a%3e 1 -
+/php/fckeditor/editor/fckeditor.html 1 -
+/community/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/register/fckeditor/editor/fckeditor.html 1 -
+/joomla/Medkorp/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/extensions/FCKeditor/fckeditor/editor/fckeditor.html 1 -
+/blogscript/fckeditor/editor/fckeditor.html 1 -
+/template/default/common/footer.htm 1 http://www.smartsites4u.co.uk
+/js/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/js/uploadify/uploadify.swf
+/blog/admin/FCKeditor/editor/fckeditor.html 1 -
+/include/fckeditor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_js/js__q3GGhU4sE09YWG6eJjAZl6GH38v-CDmDC00PwVv_PGM__XetxYP_5sBzcXzUINSA7r6QiJwslfhG0HTD1drm-LXA__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.js 1 -
+/js/transport.js 1 http://www.smartsites4u.co.uk
+/fckeditor/editor 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_js/js__prSBthrqkkIB_PR90oTYaIPyvfoliHEDPGNiVUL4euE__e1Wd7z7hFmUgXsDITDz2vePAxrYDMoqBKYXd77A2eRQ__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.js 1 -
+//sys.asp 1 -
+/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/uploadify/uploadify.swf
+/pub/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/wp-login.php 2 -
+/sites/www.smartsites4u.co.uk/files/advagg_css/css__DBLDeCsH69WzZs_ChHAtSKlMOrKBZ99AuItOsAef8nU__xPWKBX8ootyDnWmoLMH6Qt0xh7qg1DezUUaq41Wo6mY__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.css 1 -
+/gateweb/scripts/fckeditor/editor/fckeditor.html 1 -
+/news_script/fckeditor/editor/fckeditor.html 1 -
+//js/fckeditor/editor/dialog/fck_about.html 1 -
+/plugins/HTMLeditor/FCKeditor/editor/fckeditor.html 1 -
+/Manage/Include/fckeditor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_js/js__l3xSdXjCMT2qZzScu1p0WwRSpd2PvgT-WDzIZcNR6yU__wSBZEIuDumArb0CBKGQ1s-fiZiHrKtqZKagmJRllHIk__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.js 1 -
+/core/php/fckeditor/editor/fckeditor.html 1 -
+/plugins/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/plugins/uploadify/uploadify.swf
+/asetrack/includes/fckeditor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_js/js__QGxqrHvbvZFV5PkDrHYnjuP-51CdZjQzKoL9AE4ItYs__luveXacipbCIVlRGVpk_mafqJKUrkWz2T1OMQLFmCJE__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.js 1 -
+/kiknlzezhoka.html 1 -
+/common/htmlarea/editor/fckeditor.html 1 -
+/jsincludes/FCKeditor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_css/css__rx3Jj5rYJgg2VX2k-2fxdoLkH8xRk-Ki_skZc30R27c__kwfqVEkm4rWPndp2QTj8CM8ii2V4Q1HJEy9wYyYJls8__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.css 1 -
+/Backend/FCKeditor/editor/fckeditor.html 1 -
+/packages 2 http://www.smartsites4u.co.uk/
+//fckeditor/editor/dialog/fck_about.html 1 -
+/contact-us 6 -
+/HTMLEditor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_css/css__6UbSmPqGM8ECXe_z2BmKg_3VgGq7oOTI_mHdeblUZ8g__9m3zPWiyszaisdfbZLoXZqzXD-VfmQcQDfN3KpN9e2Q__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.css 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/admin-ajax.php 1 -
+/index.html 1 -
+/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/cart/admin/htmleditor/editor/fckeditor.html 1 -
+/cweomomsyt.html 1 -
+/%3ca%20href%3d%22/portfolio/louise-purvis-sculpter%22%3eLouise%20Purvis%20%7c%20Sculpter%3c/a%3e 1 -
+/sites/default/files/js/'+e.iframeSrc+' 3 -
+/data/fckeditor/editor/fckeditor.html 1 -
+//info_sub.asp 1 -
+/AWT/editor/fckeditor.html 1 -
+/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/fckeditor-for-wordpress-plugin/fckeditor/editor/fckeditor.html 1 -
+/multicms/packages/fckeditor/editor/fckeditor.html 1 -
+/fckphp/editor/fckeditor.html 1 -
+/assets/js/fckeditor/editor/fckeditor.html 1 -
+//components/com_community/index.html 1 -
+/%3ca%20href%3d%22/portfolio/motopccouk%22%3emotopc.co.uk%3c/a%3e 1 -
+/gallery/fckeditor/editor/fckeditor.html 1 -
+/inurl-/fckeditor/editor/fckeditor.html 1 -
+/public/fckeditor/editor/fckeditor.html 1 -
+/fronteiranorte/editor/editor/fckeditor.html 1 -
+/sites/all/modules/google_analytics/googleanalytics.js 1 -
+/adminweb/util/fckeditor/editor/fckeditor.html 1 -
+/editor/editor/fckeditor.html 1 -
+/sites/all/modules/lightbox2/js/lightbox.js 1 -
+/paginas/fckeditor/editor/fckeditor.html 1 -
+/v1/plugins/editors/fckeditor/editor/fckeditor.html 1 -
+/sites/default/files/js/js_qhul4e5yu-2z68yyxywusglnkx6fjw5k0eg2aujj4t8.js 1 -
+/engine/editor/css/content.css 1 -
+/control/editor/fckeditor.html 1 -
+/CFIDE/scripts/ajax/FCKeditor/editor/fckeditor.html 1 -
+/inc/uploadify/uploadify.swf 1 http://www.smartsites4u.co.uk/inc/uploadify/uploadify.swf
+/node/4 1 -
+/what-were-all-about 5 -
+/editor/editor 1 -
+/content 1 -
+/library/editor/fckeditor/editor/fckeditor.html 1 -
+//edu.asp 1 -
+/FAQ 1 -
+/dhtml_editor/editor/fckeditor.html 1 -
+/sites/www.smartsites4u.co.uk/files/advagg_css/css__FO6xXFUbldGFLmCDNw7ujmPQdZApegPM-chQZVTKkTM__lt3aBX8Zq4z_MF6jvevXZ_p58Ep4gjzmZmdoLg7AmsU__rL2zDvFnPG3mEMI7VfZWrG-eZ7SSjz5dypCECx12z38.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 484
+188.143.233.211 65 65 2067989 20150228182443
+crawl12.lp.007ac9.net 42 42 1072902 20150216192201
+crawl-77.66.121.242.findxbot.com 41 41 243530 20150210125456
+host86-166-1-218.range86-166.btcentralplus.com 36 36 225299 20150202014643
+ec2-54-153-111-217.us-west-1.compute.amazonaws.com 30 45 295672 20150214211746
+ec2-54-153-86-8.us-west-1.compute.amazonaws.com 25 26 170077 20150210101407
+87.114.64.121 20 204 3177240 20150221114013
+hosted-by.leaseweb.com 17 17 569436 20150216230238
+hosted-by.dahhosting.nl 17 17 569436 20150213041448
+host-92-27-225-165.static.as13285.net 14 88 1884265 20150227011136
+baiduspider-123-125-71-39.crawl.baidu.com 1 1 38701 20150228163519
+baiduspider-123-125-71-74.crawl.baidu.com 1 1 8816 20150225014150
+baiduspider-123-125-71-38.crawl.baidu.com 2 2 47523 20150228213741
+69.58.178.56 10 10 332947 20150220013016
+cpc3-hari13-2-0-cust823.hari.cable.virginm.net 0 1 114172 
+ec2-54-174-17-106.compute-1.amazonaws.com 11 20 664445 20150221215927
+180.76.4.221 1 1 38593 20150202115926
+google-proxy-66-102-6-217.google.com 1 11 173473 20150205135417
+199.101.132.234 1 1 8822 20150222153902
+210.101.131.232 1 1 8824 20150214001950
+186.117.190.215 1 34 620626 20150213065108
+baiduspider-123-125-71-106.crawl.baidu.com 1 1 8821 20150223173300
+177-106-181-251.xd-dynamic.ctbcnetsuper.com.br 1 34 620630 20150212083140
+112.19.237.133 1 1 8825 20150219155804
+sam.geo-s.ru 1 1 8819 20150208040130
+180.76.4.9 1 1 38593 20150210100930
+117.169.1.174 1 1 8819 20150222154633
+197.218.72.114 1 34 620632 20150203091536
+axido.com 2 2 17652 20150212070647
+177.45.177.228 1 34 620631 20150225042124
+74.117.179.19 1 1 5774 20150222155203
+baiduspider-220-181-108-102.crawl.baidu.com 1 1 38701 20150228143741
+201-243-171-43.dyn.dsl.cantv.net 1 1 8823 20150224133431
+37.189.137.131 1 34 620631 20150222110558
+cust-198-154-104-37.corexchange.com 0 7 12808 
+google-proxy-66-249-83-133.google.com 0 8 181197 
+baiduspider-220-181-108-178.crawl.baidu.com 1 1 8828 20150224173302
+84.19.27.99 1 1 38701 20150219161013
+baiduspider-123-125-71-12.crawl.baidu.com 2 2 47518 20150227195036
+180.76.4.147 1 1 38593 20150217000527
+google-proxy-66-249-84-140.google.com 1 12 269863 20150226082656
+24.205.153.27.broad.pt.fj.dynamic.163data.com.cn 4 4 35286 20150215170039
+105.32.122.242 1 34 620630 20150217212240
+221.176.14.76 1 1 8824 20150206013723
+187.113.98.63.static.host.gvt.net.br 1 34 620636 20150209072117
+180.76.4.154 1 1 38701 20150227034239
+38.100.21.66 5 9 184809 20150218135710
+117.203.161.20 1 34 620631 20150223222119
+62-210-75-104.rev.poneytelecom.eu 1 8 94637 20150225003432
+92.154.206.183.static.sz.js.chinamobile 1 1 8820 20150214064847
+baiduspider-123-125-71-16.crawl.baidu.com 1 1 8819 20150228143739
+180.76.4.23 1 1 38593 20150214180202
+180.76.4.105 1 1 38593 20150227175838
+69.12.75.69.static.quadranet.com 2 2 13224 20150216050131
+62-210-189-96.rev.poneytelecom.eu 1 8 94643 20150201094759
+google-proxy-66-249-84-133.google.com 0 9 159549 
+173.208.203.138 2 2 17723 20150210052535
+198.211.105.73 11 18 159590 20150204113725
+61.135.190.223 0 1 32743 
+198.204.253.98 1 1 38701 20150205015924
+baiduspider-123-125-71-21.crawl.baidu.com 1 1 38701 20150219174828
+host.colocrossing.com 2 2 13222 20150227144044
+77.242.142.248 1 34 620629 20150212091641
+141.105.71.151 3 3 86986 20150204212648
+199.192.225.84 1 34 620627 20150207112333
+baiduspider-220-181-108-100.crawl.baidu.com 1 1 8823 20150226004943
+180.76.4.226 1 1 38593 20150215080028
+61.135.190.100 1 7 106285 20150206015133
+baiduspider-220-181-108-82.crawl.baidu.com 3 3 56344 20150227043731
+180.76.4.68 1 1 38701 20150213013830
+baiduspider-220-181-108-105.crawl.baidu.com 2 2 17640 20150228143739
+baiduspider-220-181-108-158.crawl.baidu.com 1 1 38701 20150223033414
+199.101.134.198 1 1 6617 20150222161023
+204.12.197.106 1 1 38701 20150207013503
+5.196.155.57 1 1 8820 20150223002242
+61.135.190.219 1 2 41566 20150209044902
+b150e2ad.virtua.com.br 1 12 101616 20150213120143
+117.166.106.162 1 1 8825 20150219141743
+115-167-121-75.wi-tribe.net.pk 1 33 617156 20150207052717
+119.90.127.2 1 1 8822 20150201154352
+180.76.4.44 1 1 38701 20150228115142
+41.103.109.197 1 15 107459 20150202070818
+google-proxy-66-249-84-253.google.com 0 9 459378 
+202.171.253.84 1 1 38701 20150220130041
+agsb-5d87123b.pool.mediaways.net 1 34 620625 20150216231706
+baiduspider-220-181-108-99.crawl.baidu.com 1 1 38701 20150219174827
+baiduspider-220-181-108-122.crawl.baidu.com 2 2 47526 20150225205012
+216.231.135.234.rdns.continuumdatacenters.com 1 1 8823 20150224141607
+c-r022-u0049-203.webazilla.com 2 2 17653 20150222014614
+186-60-34-94.speedy.com.ar 1 34 620635 20150220155445
+23-95-63-199-host.colocrossing.com 1 1 6613 20150217072800
+free-ip.astranet.ru 1 1 8825 20150225210645
+google-proxy-66-249-83-236.google.com 2 24 776683 20150227195421
+baiduspider-220-181-108-113.crawl.baidu.com 4 4 95038 20150226134132
+189-015-140-091.xd-dynamic.ctbcnetsuper.com.br 1 34 620632 20150217140334
+117.169.1.205 1 1 8819 20150223093807
+112.19.125.127 1 1 8820 20150227121459
+ds1205-01-n.solidseodedicated.com 1 1 8826 20150218065127
+83.143.242.39 1 1 8823 20150225224943
+google-proxy-66-249-88-189.google.com 0 9 224237 
+static.136.69.251.148.clients.your-server.de 1 1 22387 20150215223643
+155.94.130.232.static.quadranet.com 1 1 8825 20150221101938
+msnbot-199-30-24-8.search.msn.com 0 35 617946 
+static.8.155.76.144.clients.your-server.de 1 1 22387 20150224071231
+baiduspider-123-125-71-103.crawl.baidu.com 1 1 38701 20150224053537
+baiduspider-123-125-71-78.crawl.baidu.com 0 1 4366 
+baiduspider-220-181-108-185.crawl.baidu.com 2 2 17647 20150228213739
+google-proxy-66-249-83-132.google.com 1 19 186738 20150204192819
+baiduspider-220-181-108-92.crawl.baidu.com 2 2 77402 20150221093035
+customer6.orypt.info 1 1 38701 20150213125349
+baiduspider-220-181-108-88.crawl.baidu.com 1 1 38701 20150223123435
+google-proxy-66-102-6-230.google.com 0 3 10314 
+111.10.165.86 1 1 8820 20150221032142
+180.76.4.32 1 1 38701 20150213114559
+baiduspider-123-125-71-60.crawl.baidu.com 2 2 47518 20150223133422
+srv0.tk 2 2 77402 20150208030848
+abts-north-dynamic-165.94.69.182.airtelbroadband.in 2 29 159041 20150210021556
+61.135.190.224 1 2 11042 20150211033235
+180.76.4.69 1 1 38701 20150221114146
+baiduspider-123-125-71-46.crawl.baidu.com 2 2 17652 20150228233621
+baiduspider-123-125-71-86.crawl.baidu.com 1 1 8820 20150226134133
+ool-4577e36b.dyn.optonline.net 10 142 2052115 20150220101359
+178.62.247.171 1 1 38701 20150220214735
+177.5.193.179 1 34 620631 20150225115417
+117.169.1.189 1 1 8819 20150226104654
+180.76.4.90 1 1 38593 20150215175609
+baiduspider-220-181-108-108.crawl.baidu.com 1 1 38701 20150219233745
+105-229-71-166.north.dsl.telkomsa.net 1 27 597140 20150201012254
+65.255.61.79 1 34 620634 20150219105123
+89.108.181.243 1 1 8825 20150203205115
+117.169.1.214 2 2 17650 20150226055708
+180.76.4.54 1 1 38701 20150208234855
+google-proxy-66-249-83-223.google.com 0 3 13785 
+192.171.238.186 1 1 5432 20150210014305
+abts-north-dynamic-178.155.177.122.airtelbroadband.in 1 1 38701 20150222144300
+google-proxy-66-249-83-229.google.com 0 2 7519 
+google-proxy-66-102-6-253.google.com 0 23 727910 
+findsa.co.za 1 1 38593 20150208093538
+cache.idc.js.chinamobile.com 1 1 5552 20150201130604
+180.76.4.220 2 2 77186 20150227100508
+host-213-248-211-171.nominet.org.uk 4 4 17647 20150224015426
+199.101.134.202 1 1 5258 20150222155229
+180.76.4.50 2 2 77294 20150220194121
+static.vdc.vn 4 26 570500 20150225215000
+cust-198-154-104-41.corexchange.com 1 1 8824 20150214031948
+114-40-108-25.dynamic.hinet.net 1 1 8824 20150222044108
+180.76.4.224 1 1 38593 20150228000731
+baiduspider-123-125-71-33.crawl.baidu.com 2 2 47518 20150223043605
+162.217.174.25 1 1 6613 20150225153901
+183.223.195.106 1 1 8820 20150213173524
+180.76.4.114 2 2 77186 20150220020557
+baiduspider-123-125-71-49.crawl.baidu.com 1 1 38701 20150223043606
+66-87-117-9.pools.spcsdns.net 3 44 655945 20150219063922
+google-proxy-66-249-83-230.google.com 0 32 550624 
+baiduspider-123-125-71-73.crawl.baidu.com 1 1 8825 20150221093025
+104.245.101.67 1 1 38701 20150209152049
+186.225.204.39 1 28 523288 20150220082157
+117.139.3.186 1 1 8817 20150222073151
+36.81.33.95 1 1 8824 20150214040204
+baiduspider-123-125-71-52.crawl.baidu.com 2 2 47520 20150228163518
+ec2-52-1-20-98.compute-1.amazonaws.com 1 1 38701 20150210190608
+180.76.4.233 1 1 38593 20150206100946
+proxy-1.istella.it 1 1 38701 20150221022549
+google-proxy-66-102-6-135.google.com 1 22 218181 20150218214150
+baiduspider-123-125-71-32.crawl.baidu.com 1 1 38701 20150220013818
+baiduspider-123-125-71-51.crawl.baidu.com 1 1 8821 20150220093656
+baiduspider-123-125-71-14.crawl.baidu.com 0 1 8289 
+180.76.4.20 1 1 38701 20150203014429
+baiduspider-123-125-71-102.crawl.baidu.com 2 2 77402 20150225014151
+180.76.4.199 1 1 38593 20150228020328
+ppp-2-87-189-71.home.otenet.gr 1 34 620626 20150213073632
+180.76.4.141 2 2 77186 20150223020611
+162.244.9.21 1 1 8819 20150222173528
+160.193.217.87.dynamic.jazztel.es 1 34 620631 20150206041627
+180.76.4.11 1 1 38593 20150214015819
+baiduspider-220-181-108-87.crawl.baidu.com 2 2 47518 20150226004944
+121-72-228-205.cable.telstraclear.net 1 34 620632 20150203184234
+baiduspider-123-125-71-30.crawl.baidu.com 2 2 47521 20150223195111
+176.57.141.193 1 1 21075 20150227194225
+118.101.58.1 1 34 620629 20150208043632
+74.117.238.246.rdns.continuumdatacenters.com 1 1 6614 20150206110809
+92.f5.344a.static.theplanet.com 1 1 38701 20150206201050
+cpe-167-114-162-106-dsl.montrealnetworx.com 1 1 8821 20150224014000
+180.76.4.148 1 1 38593 20150202100516
+bfb1c3d5.virtua.com.br 1 34 620633 20150218164621
+static.25.25.9.176.clients.your-server.de 1 1 38593 20150206083414
+google-proxy-66-249-84-229.google.com 0 10 397671 
+ec2-54-146-101-107.compute-1.amazonaws.com 1 1 8825 20150219115449
+adsl190-71-204-57.epm.net.co 1 34 620634 20150210052515
+google-proxy-64-233-172-230.google.com 1 13 261050 20150211204248
+190-199-44-186.dyn.dsl.cantv.net 1 1 8822 20150212171139
+bl20-86-13.dsl.telepac.pt 1 34 620631 20150222070729
+117.169.1.89 1 1 8819 20150228132019
+baiduspider-123-125-71-28.crawl.baidu.com 2 2 47524 20150228233622
+google-proxy-66-249-84-224.google.com 0 13 192646 
+google-proxy-64-233-172-191.google.com 0 3 12139 
+31.202.241.245.format-tv.net 4 4 154804 20150225163308
+94.101.160.3 0 1 114172 
+baiduspider-220-181-108-149.crawl.baidu.com 1 1 38701 20150224053537
+baiduspider-123-125-71-25.crawl.baidu.com 2 2 17646 20150223033414
+117.169.1.190 1 1 8823 20150218205614
+177.207.210.240.static.gvt.net.br 1 34 620625 20150212191535
+ec2-54-166-156-204.compute-1.amazonaws.com 1 1 0 20150225012947
+baiduspider-220-181-108-172.crawl.baidu.com 1 1 8820 20150224053536
+183.223.204.135 1 1 8823 20150218003152
+host81-149-183-218.in-addr.btopenworld.com 6 9 370143 20150228123432
+bzq-114-71-13.cust.bezeqint.net 1 1 8815 20150202164826
+189-70-38-147.user.veloxzone.com.br 1 34 620633 20150204012102
+180.76.4.70 1 1 38593 20150217175826
+117.169.1.236 1 1 8822 20150228190334
+117.169.1.28 1 1 8824 20150213200427
+baiduspider-123-125-71-34.crawl.baidu.com 1 1 8821 20150227053550
+host-92-13-167-111.as43234.net 7 60 1369447 20150210054620
+183.208.212.11 1 1 8819 20150217092149
+180.76.4.135 2 2 77171 20150226100305
+199.101.132.162 1 1 5853 20150222155310
+ip-50-62-81-187.ip.secureserver.net 1 1 8817 20150222103300
+baiduspider-123-125-71-29.crawl.baidu.com 1 1 38701 20150225205014
+5x164x197x23.dynamic.nn.ertelecom.ru 1 1 38701 20150205110209
+port-194.xxx.th.newnet.co.uk 0 1 28712 
+h048.helix.fastwebserver.de 1 1 22387 20150213173740
+google-proxy-66-102-7-137.google.com 0 9 202365 
+5.254.97.84.reserved.voxility.com 1 1 5243 20150222021050
+46.161.41.199 10 10 291912 20150209005658
+unallocated.sta.synapse.net.ua 1 1 8824 20150214003023
+ec2-52-1-73-103.compute-1.amazonaws.com 1 1 38701 20150210190611
+host182-142-static.60-79-b.business.telecomitalia.it 1 34 620633 20150219210203
+s36.friendhosting.net 2 2 17636 20150226103656
+187.86.203.160 1 32 613174 20150213143722
+baiduspider-220-181-108-174.crawl.baidu.com 1 1 38701 20150223173300
+180.76.4.119 1 1 38701 20150228194509
+208.88.224.197 1 1 6414 20150222155159
+baiduspider-220-181-108-155.crawl.baidu.com 1 1 38701 20150224014152
+61.135.190.103 0 4 79986 
+google-proxy-64-233-172-222.google.com 0 11 316698 
+google-proxy-66-249-83-224.google.com 0 19 226780 
+180.76.4.14 2 2 77294 20150226175832
+static.42.124.251.148.clients.your-server.de 4 4 88178 20150222084930
+baiduspider-123-125-71-44.crawl.baidu.com 1 1 8820 20150219233744
+ks4002724.ip-198-100-149.net 3 3 26476 20150210145707
+abts-north-dynamic-022.225.176.122.airtelbroadband.in 1 32 611124 20150209034516
+180.76.4.89 1 1 38701 20150221194052
+208.94.234.21 3 3 23051 20150222224931
+baiduspider-123-125-71-57.crawl.baidu.com 2 2 47518 20150223123425
+180.76.4.205 2 2 77186 20150223180126
+google-proxy-66-102-6-144.google.com 1 21 285284 20150225223053
+baiduspider-220-181-108-107.crawl.baidu.com 1 1 38701 20150223043606
+68.64.172.118 1 1 38686 20150201200509
+180.76.4.31 1 1 38701 20150204013900
+baiduspider-220-181-108-93.crawl.baidu.com 2 2 17634 20150223123424
+j98429.servers.jiffybox.net 1 1 8830 20150224062642
+180.76.4.230 1 1 38701 20150206234717
+223.87.110.88 1 1 8820 20150214054847
+baiduspider-123-125-71-79.crawl.baidu.com 1 1 8821 20150227043732
+baiduspider-123-125-71-31.crawl.baidu.com 1 1 38701 20150228213742
+180.76.4.124 1 1 38593 20150204215220
+233.ip-37-59-115.eu 1 1 8827 20150220060032
+5.254.97.69.reserved.voxility.com 1 1 5241 20150218113029
+static.213-133-97-216.clients.your-server.de 1 1 38593 20150212153141
+212.red-217-126-50.staticip.rima-tde.net 1 1 38701 20150210121917
+92.222.98.237 6 6 39679 20150213124526
+62-210-69-222.rev.poneytelecom.eu 1 8 94641 20150214084059
+ip-108-99.tricom.net 1 30 605145 20150221112221
+61.174.9.71 1 1 8822 20150210142514
+ec2-54-196-113-46.compute-1.amazonaws.com 3 21 143615 20150203002128
+ec2-54-221-110-225.compute-1.amazonaws.com 1 1 38685 20150212180016
+google-proxy-66-249-84-236.google.com 0 10 116427 
+95.148.94.69 1 37 632991 20150202045756
+79-66-119-204.dynamic.dsl.as9105.com 0 1 28712 
+google-proxy-66-249-88-246.google.com 1 33 444807 20150227144923
+static.7.78.9.176.clients.your-server.de 1 34 620636 20150209053310
+199.101.134.201 1 1 6938 20150222155254
+ec2-52-1-34-208.compute-1.amazonaws.com 1 1 38701 20150210190608
+180.76.4.157 1 1 38593 20150224180449
+190.215.188.238 1 34 620629 20150207044527
+200.201.148.177.isp.timbrasil.com.br 1 34 620629 20150212024847
+baiduspider-123-125-71-56.crawl.baidu.com 1 2 9446 20150219174827
+41.67.93.142 1 1 8825 20150225050730
+178.32.149.16 4 4 35293 20150210183831
+baiduspider-220-181-108-118.crawl.baidu.com 2 2 47518 20150228053332
+180.76.4.201 1 1 38593 20150203120205
+195.144.232.165 1 1 8820 20150214043730
+baiduspider-220-181-108-184.crawl.baidu.com 1 1 38701 20150225014150
+116.236.216.116 1 1 38701 20150206013430
+google-proxy-66-249-83-253.google.com 1 7 151938 20150212062838
+180.76.4.194 1 1 38593 20150203215841
+par49754.crystalsoft-it.com 1 1 8822 20150204061947
+baiduspider-220-181-108-90.crawl.baidu.com 1 1 38701 20150225205013
+117.173.21.17 1 1 8821 20150220085743
+92.51.116.136 1 34 620638 20150201022203
+baiduspider-220-181-108-182.crawl.baidu.com 1 1 8816 20150225014149
+198.252.44.7 9 9 347337 20150227220253
+note.champday.com 1 1 8822 20150210165741
+ns3365234.ovh.net 1 1 38701 20150227232048
+baiduspider-220-181-108-173.crawl.baidu.com 2 2 47520 20150228163518
+google-proxy-66-102-6-214.google.com 0 3 13785 
+google-proxy-66-249-83-217.google.com 0 3 11706 
+cust-198-154-104-42.corexchange.com 1 1 8820 20150214171358
+host55.200-43-66.telecom.net.ar 1 33 618124 20150207075259
+google-proxy-66-102-6-222.google.com 0 2 8911 
+google-proxy-66-249-88-192.google.com 0 13 459321 
+baiduspider-123-125-71-41.crawl.baidu.com 2 2 17645 20150227100816
+baiduspider-220-181-108-179.crawl.baidu.com 1 1 38701 20150224173303
+customer-190-63-136-25.claro.com.ec 1 30 608516 20150208063011
+83.1.be.static.xlhost.com 1 1 8821 20150208112049
+host207-172-dynamic.252-95-r.retail.telecomitalia.it 1 34 620631 20150226085807
+static-88.101.gw.v202.net 1 1 8823 20150224125935
+baiduspider-220-181-108-165.crawl.baidu.com 1 1 38701 20150223195111
+google-proxy-66-249-88-244.google.com 0 20 376557 
+baiduspider-123-125-71-50.crawl.baidu.com 3 3 116103 20150228053331
+180.76.4.209 1 1 38593 20150228180205
+static.88-198-227-103.clients.your-server.de 1 1 38593 20150206064112
+180.76.4.200 1 1 38701 20150206134629
+static.79-108-205-178.kgts.ru 1 1 8825 20150223024643
+80.80.164.166 0 1 7046 
+baiduspider-220-181-108-85.crawl.baidu.com 3 3 86222 20150228105821
+208.94.234.20 3 3 24149 20150222161439
+199.80.54.22 1 1 7347 20150222155158
+189-13-0-179.user.veloxzone.com.br 1 34 620632 20150222023136
+baiduspider-220-181-108-123.crawl.baidu.com 2 2 47524 20150224094643
+google-proxy-66-249-88-186.google.com 0 7 166639 
+180.76.4.153 1 1 38593 20150207101011
+218.207.53.138 1 1 8817 20150221143248
+117.169.1.77 1 1 8821 20150218141737
+baiduspider-220-181-108-86.crawl.baidu.com 2 2 47524 20150228014322
+cpe-167-114-162-107-dsl.montrealnetworx.com 1 1 8821 20150224003227
+baiduspider-123-125-71-20.crawl.baidu.com 1 1 8820 20150228053330
+host-190-131-146-242.ecutel.net.ec 1 34 620632 20150214003728
+117.169.1.218 1 1 8819 20150213112246
+199.101.134.196 1 1 8056 20150222155242
+180.76.4.99 1 1 38593 20150202215227
+180.76.4.204 1 1 38701 20150217194739
+ec2-50-16-162-96.compute-1.amazonaws.com 1 15 107447 20150227140054
+29-175-238-213.ip.idealhosting.net.tr 2 2 77402 20150218202413
+baiduspider-123-125-71-43.crawl.baidu.com 1 1 38701 20150228143740
+baiduspider-123-125-71-26.crawl.baidu.com 2 2 77402 20150223195112
+180.76.4.101 1 1 38593 20150219100135
+ec2-54-90-66-122.compute-1.amazonaws.com 1 1 8826 20150222094820
+host-212-159-135-167.static.as13285.net 7 79 1439027 20150228032724
+baiduspider-123-125-71-80.crawl.baidu.com 1 1 8823 20150224123504
+61.135.190.102 1 8 94643 20150212174034
+2.198.170.224 1 34 620631 20150226082554
+104.143.21.194 1 1 5430 20150208231332
+151.73.24.70 1 34 620627 20150223005350
+180.76.4.146 1 1 38593 20150221160442
+117.169.1.227 1 1 8824 20150217201542
+pd9e88cfe.dip0.t-ipconnect.de 1 34 620628 20150209033813
+180.76.4.140 3 3 115887 20150226194322
+180.76.4.55 1 1 38701 20150205234701
+ec2-54-197-177-3.compute-1.amazonaws.com 0 1 6226 
+180.76.4.240 1 1 38593 20150225180104
+98.126.45.138.static.krypt.com 4 4 25805 20150226204042
+baiduspider-123-125-71-76.crawl.baidu.com 1 1 38701 20150221093026
+146.0.74.205 2 2 47052 20150204051139
+abts-north-dynamic-075.101.64.182.airtelbroadband.in 4 58 318088 20150204185435
+c-n170-u0982-142.webazilla.com 2 4 30101 20150225193614
+baiduspider-123-125-71-18.crawl.baidu.com 1 1 38701 20150227053551
+180.76.4.217 1 1 38701 20150226034916
+host-41.33.238.167.tedata.net 1 1 8823 20150224103809
+google-proxy-66-102-7-130.google.com 0 12 420338 
+ns3271070.ovh.net 1 1 8822 20150220233007
+31-222-142-254.static.cloud-ips.co.uk 1 1 38701 20150212231603
+baiduspider-220-181-108-148.crawl.baidu.com 1 1 8820 20150223195110
+180.76.4.164 1 1 38701 20150227014334
+baiduspider-220-181-108-152.crawl.baidu.com 1 1 38701 20150228213740
+static.69.201.76.144.clients.your-server.de 2 2 44971 20150216111759
+104.236.15.87 1 1 8823 20150226010733
+h046.helix.fastwebserver.de 1 1 22387 20150212160039
+120.198.243.35 2 2 77402 20150227193927
+google-proxy-66-102-7-144.google.com 1 13 282700 20150220185342
+baiduspider-123-125-71-22.crawl.baidu.com 3 3 116103 20150228105823
+12-240-5-191-reverso.varzeanet.net.br 1 34 620633 20150218085458
+201-208-102-110.genericrev.cantv.net 1 1 8817 20150222120229
+static.46.75.251.148.clients.your-server.de 3 3 65849 20150226064041
+36.75.243.163 1 1 8821 20150218034944
+reverse.214.5.207.91.reserver.ru 1 1 38701 20150213055756
+197.6.141.67 1 29 604656 20150209034344
+183.220.240.35 1 1 8821 20150223190905
+ec2-54-183-153-209.us-west-1.compute.amazonaws.com 2 3 19593 20150216135806
+92.80.92.133 1 1 8816 20150219212904
+baiduspider-220-181-108-170.crawl.baidu.com 2 2 17642 20150227100815
+static.88-198-56-239.clients.your-server.de 2 2 44971 20150224071213
+baiduspider-123-125-71-23.crawl.baidu.com 1 1 8823 20150228014323
+179.181.143.240.dynamic.adsl.gvt.net.br 1 34 620629 20150205222357
+baiduspider-123-125-71-17.crawl.baidu.com 2 2 47522 20150224173304
+81.5.153.150 0 1 28104 
+190-207-165-129.dyn.dsl.cantv.net 1 1 8820 20150220005516
+223.86.4.186 1 1 8817 20150223133546
+baiduspider-123-125-71-36.crawl.baidu.com 2 2 77402 20150228014324
+baiduspider-220-181-108-140.crawl.baidu.com 1 1 8821 20150224014151
+198.211.102.105 11 18 159485 20150223125327
+baiduspider-123-125-71-48.crawl.baidu.com 1 1 8820 20150228105822
+62-210-83-113.rev.poneytelecom.eu 2 16 189279 20150210014527
+94.198.34.186 1 1 8821 20150208112242
+baiduspider-220-181-108-112.crawl.baidu.com 1 1 38701 20150226134133
+bt1.transportationes.cn 2 2 77402 20150220190028
+180.76.4.22 1 1 38701 20150208134710
+180.76.4.186 1 1 38701 20150202013905
+162.244.15.188 4 4 21720 20150212133917
+180.253.234.224 1 1 8817 20150223151924
+92.46.11.79.megaline.telecom.kz 1 1 22220 20150228185613
+google-proxy-64-233-172-238.google.com 0 9 37940 
+baiduspider-123-125-71-47.crawl.baidu.com 2 2 47517 20150224094634
+google-proxy-66-102-6-226.google.com 0 12 304600 
+baiduspider-220-181-108-176.crawl.baidu.com 1 1 38701 20150228163519
+google-proxy-64-233-172-199.google.com 0 1 4366 
+1-174-121-110.dynamic.hinet.net 1 1 8827 20150217142906
+a89-154-176-208.cpe.netcabo.pt 1 34 620632 20150210094627
+31.220.30.24 1 1 5453 20150207111620
+google-proxy-66-249-83-246.google.com 0 22 597405 
+baiduspider-220-181-108-183.crawl.baidu.com 1 1 8821 20150220093653
+google-proxy-66-249-83-138.google.com 1 22 720329 20150205053610
+baiduspider-123-125-71-88.crawl.baidu.com 1 1 38701 20150223173301
+static-wan-bl3-202-50.rev.webside.pt 1 34 620632 20150204002015
+baiduspider-123-125-71-19.crawl.baidu.com 1 1 8822 20150225124046
+google-proxy-66-102-6-235.google.com 0 14 154110 
+host118-164-dynamic.180-80-r.retail.telecomitalia.it 1 34 620632 20150228020846
+62-210-138-77.rev.poneytelecom.eu 1 8 94646 20150219132106
+baiduspider-220-181-108-110.crawl.baidu.com 1 1 8825 20150221093034
+ec2-54-144-150-202.compute-1.amazonaws.com 3 21 143609 20150227140056
+unassigned.psychz.net 1 1 38701 20150205134217
+140.207.223.180 1 1 8821 20150224073315
+baiduspider-220-181-108-81.crawl.baidu.com 1 1 38701 20150227043732
+61.174.14.195 1 1 8824 20150201184525
+31.192.11.57 0 1 4943 
+180.76.4.115 1 1 38593 20150216075646
+183.222.159.49 1 1 8825 20150221083741
+182.239.95.136.hk.chinamobile.com 1 1 38701 20150224210838
+61.135.190.222 1 1 8821 20150207015319
+199.101.134.194 1 1 5774 20150222160958
+baiduspider-220-181-108-101.crawl.baidu.com 1 1 8816 20150219183309
+chello213047217101.surfer.at 1 1 8827 20150217143129
+62-210-129-223.rev.poneytelecom.eu 5 5 35740 20150208205841
+ec2-54-87-71-36.compute-1.amazonaws.com 1 15 107453 20150201194334
+61.135.190.101 0 2 33439 
+dsl-189-230-217-78-dyn.prod-infinitum.com.mx 1 34 620634 20150228123731
+202.133.55.136 1 29 512224 20150213205503
+180.76.4.179 1 1 38577 20150212215733
+199.101.134.199 2 2 17638 20150222153856
+cust831-2.host-stage-dns.com 1 1 8823 20150201215014
+google-proxy-66-249-84-230.google.com 1 15 612835 20150213182703
+google-proxy-66-249-83-140.google.com 1 16 594248 20150219072543
+62-210-83-210.rev.poneytelecom.eu 2 2 17640 20150208204001
+google-proxy-66-249-88-248.google.com 1 25 459503 20150213131952
+baiduspider-123-125-71-100.crawl.baidu.com 1 1 8821 20150226164521
+static.173.185.76.144.clients.your-server.de 4 4 89745 20150225032021
+180.76.4.72 1 1 38593 20150215055524
+baiduspider-123-125-71-42.crawl.baidu.com 3 3 26468 20150224014152
+host-92-13-166-128.as43234.net 1 37 632993 20150205024652
+120.28.99.188 1 1 8816 20150219180748
+180.76.4.215 1 1 38701 20150213094714
+hoelscher-f0-3-7-gacc02.cba.embratel.net.br 1 34 620633 20150210084332
+ns207195.ovh.net 3 3 24151 20150209084317
+baiduspider-220-181-108-95.crawl.baidu.com 2 2 17645 20150228233620
+baiduspider-220-181-108-111.crawl.baidu.com 1 1 8824 20150221203718
+223.86.216.252 1 1 8821 20150218113614
+google-proxy-66-249-84-217.google.com 0 11 190599 
+baiduspider-220-181-108-91.crawl.baidu.com 1 1 8821 20150221073209
+37.59.131.238 2 2 17641 20150223192536
+209.236.44.148 1 32 612211 20150227121343
+baiduspider-220-181-108-163.crawl.baidu.com 2 2 47521 20150228105823
+ec2-54-152-167-148.compute-1.amazonaws.com 1 1 8820 20150228073259
+192.81.212.190 11 18 159590 20150213083757
+baiduspider-220-181-108-116.crawl.baidu.com 1 1 38701 20150227195035
+static.42.50.9.176.clients.your-server.de 6 6 52918 20150210122343
+msnbot-199-30-24-198.search.msn.com 0 5 15052 
+1.83.253.116 13 13 266161 20150228100028
+117.169.1.71 1 1 8817 20150222093524
+. 1 1 8821 20150224072614
+host-124-40-252-54.ldp.net.id 1 1 8823 20150218182124
+179.176.39.132.dynamic.adsl.gvt.net.br 1 34 620632 20150221120953
+mail.s60.info 4 4 35286 20150224141605
+91.253.22.142 1 34 620633 20150204014526
+sf1.jeroenvader.com 1 1 38593 20150201042415
+119.34.89.110.broad.pt.fj.dynamic.163data.com.cn 2 2 17646 20150207123332
+ip-176-195-45-47.bb.netbynet.ru 1 26 115124 20150228050846
+baiduspider-220-181-108-94.crawl.baidu.com 1 1 8820 20150219233744
+31-222-141-243.static.cloud-ips.co.uk 1 1 38701 20150212231604
+cpc16-acto2-2-0-cust454.4-2.cable.virginm.net 1 1 0 20150209112823
+17.228.4.82 1 1 8820 20150213164640
+google-proxy-66-249-84-223.google.com 1 13 317133 20150205120149
+baiduspider-123-125-71-112.crawl.baidu.com 1 1 5776 20150217053302
+180.76.4.137 1 1 38686 20150226114150
+baiduspider-123-125-71-72.crawl.baidu.com 3 3 86222 20150227043733
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150201 49 130 1814787 18
+20150202 52 102 1217627 11
+20150203 13 124 1686287 9
+20150204 28 197 3081535 15
+20150205 17 231 4702980 16
+20150206 18 55 1205615 18
+20150207 15 149 2772981 14
+20150208 26 121 2264143 22
+20150209 14 213 3924528 13
+20150210 61 249 4018063 25
+20150211 9 87 1406928 5
+20150212 22 230 4227840 22
+20150213 82 294 6102254 24
+20150214 43 105 1210108 14
+20150215 7 7 176879 6
+20150216 82 197 3685167 9
+20150217 12 79 1557600 12
+20150218 24 168 2943904 18
+20150219 33 192 3909764 28
+20150220 38 206 4423488 29
+20150221 27 125 2451325 27
+20150222 34 134 2147498 30
+20150223 48 159 2759691 37
+20150224 38 42 757581 37
+20150225 30 147 2585796 26
+20150226 32 164 3825755 25
+20150227 34 166 3094716 32
+20150228 97 263 5314834 43
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 7
+0s-30s 552
+30s-2mn 13
+2mn-5mn 10
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 55
+/ 532 10868735 486 471
+/pricing 42 489196 22 24
+/contact 37 552434 11 9
+/about-us 24 355538 1 5
+/faq-tips 23 491731 6 7
+/portfolio 19 415844 4 2
+/portfolio/louise-purvis-sculpter 19 324276 14 16
+/FAQ/background-code 17 341269 1 1
+/FAQ/what-seo-and-do-i-need-it 14 350435 1 1
+/portfolio/audio-post-production 13 170878 3 1
+/admin/config/system/backup_migrate/schedule 3 10656 0 0
+/package/starter 10 176110 1 4
+/user 2 40466 2 1
+/pricing/intermediate 4 53529 1 1
+// 12 245928 0 1
+/js/admin_menu/cache/e84c3861aac5dbf269e6daea056ef74c 1 5908 0 0
+/portfolio/ship-whale-pub 5 42995 0 1
+/portfolio/ewing-paddock 4 37304 1 1
+/package/intermediate 10 287887 1 1
+/portfolio/black-rabbit-retreat 4 39224 0 0
+/portfolio/mamarua-0 4 39834 0 1
+/admin/config/system/backup_migrate 1 3788 0 0
+/users/admin 1 12376 0 0
+/portfolio/seth-consedine-osteopath 6 68521 0 1
+/pricing/starter 7 69328 2 1
+/portfolio/lbf-kids-talent-agency 1 6988 1 1
+/admin/config/system/backup_migrate/schedule/list/edit/d981552b37340563a3fcbaa6b8af2de9 1 4199 0 0
+/content/ana 7 68503 2 2
+/portfolio/daisy-coffins 5 45026 0 1
+/portfolio/richard-causton 5 43085 1 1
+/portfolio/halflight-music 4 37611 0 0
+/portfolio/maria-heseltine 12 98972 7 7
+/portfolio/playstation-totnes 4 38308 0 0
+/portfolio/motopccouk 7 55027 0 0
+/portfolio/racecourse-garage-totnes 5 44033 1 0
+/admin/config/system/backup_migrate/destination 2 7317 0 0
+/FAQ/think-your-own-user-experience-web 11 304225 0 0
+/views/ajax 1 10726 0 0
+/portfolio/kirsty-winter-design-furniture 12 115392 2 5
+/portfolio/bilingual-trips 6 47803 2 2
+/package/pro 11 245357 2 3
+/portfolio/panyara 6 48576 0 0
+/portfolio/abconservation-0 3 33127 0 0
+/admin/config/system/backup_migrate/schedule/list/edit/85e186ea3d96644a6ba3d097d6214fb1 1 4196 0 0
+/portfolio/kirsty-griffin-photographer 6 49704 2 1
+//user 1 5067 0 0
+/FAQ/design 12 341722 1 1
+/pricing/pro 3 32529 0 1
+/admin/config/system/backup_migrate/destination/list/edit/b042e4a364af65cdf8facb6aff44e735 1 3728 0 0
+/portfolio/jon-stein 8 112344 3 3
+/portfolio/lovechefs 6 48726 0 0
+/FAQ/valuable-tool 12 312243 2 2
+/node/1/done 3 14289 0 3
+/package/custom 9 193017 0 0
+/content/maria 6 79045 2 2
+END_SIDER
